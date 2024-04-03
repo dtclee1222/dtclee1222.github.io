@@ -17,6 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Dr. Lee at IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Network and Service Management, IEEE Transactions on Intelligent Vehicles,  IEEE Transactions on Services Computing, IEEE Transactions on Multimedia, Information Processing & Management,  Future Generation Computer Systems, Knowledge Based Systems, Information Sciences,  Engineering Applications of Artificial Intelligence, Infrared Physics & Technology, Neurocomputing, CAiSE, NAACL, ICWS,  PAKDD and other journals & conferences published a number of papers and served as the Reviewer of the above journals & conferences.
+
+Dr. Lee is currently the Director of the Data Analysis and Cognitive Inference (DACI) Laboratory, The main research interests of [DACI Laboratory](https://www.dacilab.com) include: recommendation system, representation learning, natural language processing, intention recognition, pattern recognition, computer vision and their applications in software engineering, intelligent education, digital humanities, sports & health, and smart factory, the team has published more than 40 SCI papers and high-level conference and journal papers. The laboratory has more than 40 doctors and masters, focusing on solving practical theoretical and engineering problems through new technologies. The team has established long-term cooperation with Zhongnan Hospital of Wuhan University, China University of Geosciences (Wuhan), Huazhong University of Science and Technology, Chongqing University of Posts and Telecommunications, Hubei University, Hubei University of Technology, Jiangxi Normal University and other universities.
+
+
+DACI Lab
+======
+
+The members in Data Analysis and Cognitive Inference (DACI) Laboratory are mainly from Wuhan University, Huazhong University of Science and Technology, Harbin Institute of Technology (Shenzhen), Fudan University, Central China Normal University, China University of Geosciences (Wuhan), Hubei University, Hubei University of Technology, Wuhan Sports University, Beijing Sport University, and China Institute of Sport Science, etc. 
+
+The main research interests of DACI Lab include: Computer Vision, Video Understanding, Multi-Target Multi-Camera Tracking, Action Quality Assessment, Spatio-Temporal Action Detection, Keyframe Detection, Pose Estimation, Knowledge graph, Recommender Systems, Knowledge Tracing, Speech Emotion Recognition, etc.
+
+More info about Data Analysis and Cognitive Inference (DACI) Laboratory can be found in [THIS](https://www.dacilab.com). 
+Welcome to join us! let's "Play" together!!!
+
+
+
+
+
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
