@@ -44,31 +44,31 @@ Welcome to join us! let's "Play" together!!!
 # 📝 Publications 
 
 
-- F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, D. Li., “Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models,” NAACL Findings 2024. (CCF B)
+- Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models. F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. NAACL Findings 2024. (CCF B)
 
-- Cai, C. Zheng, J. Wang, D. Li, et al., “Reinforcement Learning-based Streaming Process Discovery under Concept Drift,” 36th International Conference on Advanced Information Systems Engineering (CAiSE 2024) (CCF B)
+- Reinforcement Learning-based Streaming Process Discovery under Concept Drift. Cai, C. Zheng, J. Wang, **D. Li**, et al. 36th International Conference on Advanced Information Systems Engineering (CAiSE 2024) (CCF B)
 
-- S. Xie, J. Wang, B. Li, Z. Zhang, D. Li, P. H., “PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications,” IEEE Transactions on Services Computing, 2024. (SCI 2区, CCF A)
+- [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. `IEEE Transactions on Services Computing` 2024. (SCI 2区, CCF A)
 
-- D Li, et al., “Multi-perspective knowledge graph completion with global and interaction features,” Information Sciences, Volume 666, 2024, 120438. (SCI 1区Top, CCF B)
+- [Multi-perspective knowledge graph completion with global and interaction features](https://linkinghub.elsevier.com/retrieve/pii/S0020025524003517). **D. Li**, et al. `Information Sciences` Volume 666, 2024, 120438. (SCI 1区Top, CCF B)
 
-- K. Lin, D Li, et al. “FHCPL: An Intelligent Fixed-Horizon Constrained Policy Learning System for Risk-Sensitive Industrial Scenario,” IEEE Trans. Ind. Informatics (SCI 1区Top, CCF C)
+- [FHCPL: An Intelligent Fixed-Horizon Constrained Policy Learning System for Risk-Sensitive Industrial Scenario](https://ieeexplore.ieee.org/document/10368334/). K. Lin, **D Li**, et al. `IEEE Transactions on Industrial Informatics` 2024. (SCI 1区Top, CCF C)
 
-- Lin, Y. Li, S. Chen, D. Li and X. Wu, "Motion Planner with Fixed-Horizon Constrained Reinforcement Learning for Complex Autonomous Driving Scenarios," in IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2023.3273857. (SCI 1区)
+- [Motion Planner with Fixed-Horizon Constrained Reinforcement Learning for Complex Autonomous Driving Scenarios](https://ieeexplore.ieee.org/document/10120952/). K. Lin, Y. Li, S. Chen, **D. Li** and X. Wu. `IEEE Transactions on Intelligent Vehicles` 2024. (SCI 1区)
 
-- K. Lin, D. Li, et al., "TAG: Teacher-Advice Mechanism With Gaussian Process for Reinforcement Learning," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3262956. (SCI 1区Top, CCF B)
+- [TAG: Teacher-Advice Mechanism With Gaussian Process for Reinforcement Learning](https://ieeexplore.ieee.org/document/10093911). K. Lin, **D. Li**, et al. `IEEE Transactions on Neural Networks and Learning Systems` 2024. (SCI 1区Top, CCF B)
 
-- D. Li, et al., SDFormer: A shallow-to-deep feature interaction for knowledge graph embedding, Knowledge-Based Systems, Volume 284, 2024, 111253. (SCI 1区Top, CCF C)
+- [SDFormer: A shallow-to-deep feature interaction for knowledge graph embedding](https://linkinghub.elsevier.com/retrieve/pii/S095070512301002X). **D. Li**, et al. `Knowledge-Based Systems` Volume 284, 2024, 111253. (SCI 1区Top, CCF C)
 
-- D. Li, et al., Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system, Information Processing & Management, Volume 61, Issue 3, 2024, 103631. (SCI 1区Top, CCF B)
+- [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. `Information Processing & Management` Volume 61, Issue 3, 2024, 103631. (SCI 1区Top, CCF B)
 
-- Y. Liu, D. Li*, et al., MDLR: A Multi-Task Disentangled Learning Representations for unsupervised time series domain adaptation, Information Processing & Management, Volume 61, Issue 3, 2024, 103638. (SCI 1区Top, CCF B)
+- [MDLR: A Multi-Task Disentangled Learning Representations for unsupervised time series domain adaptation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003758). Y. Liu, **D. Li\***, et al. `Information Processing & Management` Volume 61, Issue 3, 2024, 103638. (SCI 1区Top, CCF B)
 
-- B. Liu1, D. Li1, et al., Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation, Information Processing & Management, Volume 61, Issue 3, 2024, 103680. (SCI 1区Top, CCF B
+- [Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation](https://linkinghub.elsevier.com/retrieve/pii/S0306457324000402). B. Liu$^1$, **D. Li$^1$**, et al. `Information Processing & Management` Volume 61, Issue 3, 2024, 103680. (SCI 1区Top, CCF B
 
-- K. Lin, Y. Li, Q. Liu, D. Li, et al., “Almost surely safe exploration and exploitation for deep reinforcement learning with state safety estimation,” Information Sciences, Volume 662, 2024, 120261. (SCI 1区Top, CCF B)
+- [Almost surely safe exploration and exploitation for deep reinforcement learning with state safety estimation](https://www.sciencedirect.com/science/article/abs/pii/S0020025524001749) K. Lin, Y. Li, Q. Liu, **D. Li**, et al. Information Sciences, Volume 662, 2024, 120261. (SCI 1区Top, CCF B)
 
-- J. Chang, J. Wang, B. Li, Y. Zhao and D. Li, "Attention-Based Deep Reinforcement Learning for Edge User Allocation," in IEEE Transactions on Network and Service Management, vol. 21, no. 1, pp. 590-604, 2024. (SCI 2区)
+- [Attention-Based Deep Reinforcement Learning for Edge User Allocation](https://ieeexplore.ieee.org/document/10172271/). J. Chang, J. Wang, B. Li, Y. Zhao and **D. Li**. `IEEE Transactions on Network and Service Management` vol. 21, no. 1, pp. 590-604, 2024. (SCI 2区)
 
 - [DADL: Double Asymmetric Distribution Learning for head pose estimation in wisdom museum](https://linkinghub.elsevier.com/retrieve/pii/S1319157823004238). W. Zhao, S. Wang, X. Wang, **D. Li\***, et al. `Journal of King Saud University - Computer and Information Sciences` Volume 36, Issue 1, 2024, 101869. (SCI 2区)
 
