@@ -116,10 +116,12 @@ Welcome to join us! let's "Play" together!!!
 - *2021 - 2024*, Wuhan University, Major: Software engineering. 
 - *2018 - 2021*, Central China Normal University, Major: Computer science and Technology. 
 
-`<!-- 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->`
+[Reference style][id1]
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[id1]: http://example.com/ (标题)
+[id2]: http://example.com/ "标题"
+
+
+
+// # 💻 Internships
+// - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
