@@ -52,11 +52,17 @@ Welcome to join us! let's "Play" together!!!
 
 # 📝 Publications 
 
+- [Efficient Nodes Representation Learning with Residual Feature Propagation](http://link.springer.com/chapter/10.1007/978-3-030-75765-6_13). F. Wu, **D. Li\***, et al. PAKDD (2) 2021: 156-167. (CCF C) [kkk](alert("Hello\nHow are you?"))
+
+- <button onclick="alert("Hello\nHow are you?");">Bib</button>
+- [CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms](https://linkinghub.elsevier.com/retrieve/pii/S0925231221005142). **D. Li**, et al. Neurocomputing, 455: 283-296 (2021) (SCI 2区Top)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Efficient Nodes Representation Learning with Residual Feature Propagation](http://link.springer.com/chapter/10.1007/978-3-030-75765-6_13). F. Wu, **D. Li\***, et al. PAKDD (2) 2021: 156-167. (CCF C)
-- [CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms](https://linkinghub.elsevier.com/retrieve/pii/S0925231221005142). **D. Li**, et al. Neurocomputing, 455: 283-296 (2021) (SCI 2区Top)
+
+
+
 
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
