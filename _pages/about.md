@@ -70,15 +70,15 @@ Welcome to join us! let's "Play" together!!!
 
 - J. Chang, J. Wang, B. Li, Y. Zhao and D. Li, "Attention-Based Deep Reinforcement Learning for Edge User Allocation," in IEEE Transactions on Network and Service Management, vol. 21, no. 1, pp. 590-604, 2024. (SCI 2区)
 
-- W. Zhao, S. Wang, X. Wang, D. Li*, et al., DADL: Double Asymmetric Distribution Learning for head pose estimation in wisdom museum, Journal of King Saud University - Computer and Information Sciences, Volume 36, Issue 1, 2024, 101869. (SCI 2区)
+- [DADL: Double Asymmetric Distribution Learning for head pose estimation in wisdom museum](https://linkinghub.elsevier.com/retrieve/pii/S1319157823004238). W. Zhao, S. Wang, X. Wang, **D. Li\***, et al. `Journal of King Saud University - Computer and Information Sciences` Volume 36, Issue 1, 2024, 101869. (SCI 2区)
 
-- Y. Zhao, D. Jiang, B. Li, L. Fu, J. Wang and D. Li, "A Deep Reinforcement Learning-Based Pointer Scoring Network for Edge Task Scheduling," 2023 IEEE International Conference on Web Services (ICWS), 2023, pp. 299-309. CCF B
+- [A Deep Reinforcement Learning-Based Pointer Scoring Network for Edge Task Scheduling](https://ieeexplore.ieee.org/document/10248259). Y. Zhao, D. Jiang, B. Li, L. Fu, J. Wang and **D. Li** `ICWS` 2023, pp. 299-309. CCF B
 
-- Z. Li, Q. Zhang, F. Zhu, D. Li*, et al, “Knowledge graph representation learning with simplifying hierarchical feature propagation,” Inf. Process. Manag. 60: 103348 (2023). (SCI 1区Top, CCF B)
+-  [Knowledge graph representation learning with simplifying hierarchical feature propagation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323000857). Z. Li, Q. Zhang, F. Zhu, **D. Li\***, et al. `Information Processing and Management` 60: 103348 (2023). (SCI 1区Top, CCF B)
 
-- J. Wang, Q. Zhang, F. Shi, D. Li*, et al, “Knowledge graph embedding model with attention-based high-low level features interaction convolutional network,” Inf. Process. Manag. 27: 103350 (2023). (SCI 1区Top, CCF B)
+- [Knowledge graph embedding model with attention-based high-low level features interaction convolutional network](https://linkinghub.elsevier.com/retrieve/pii/S0306457323000870). J. Wang, Q. Zhang, F. Shi, **D. Li\***, et al. `Information Processing and Management` 27: 103350 (2023). (SCI 1区Top, CCF B)
 
-- J. Zhu, B. Li, J. Wang, D. Li, et al, “BGCL: Bi-subgraph network based on graph contrastive learning for cold-start QoS prediction,” Knowl.Based Syst. 263:110296 (2023). (SCI 1区Top, CCF C)
+- [BGCL: Bi-subgraph network based on graph contrastive learning for cold-start QoS prediction](https://linkinghub.elsevier.com/retrieve/pii/S0950705123000461). J. Zhu, B. Li, J. Wang, **D. Li**, et al. `Knowledge-Based Systems` 263:110296 (2023). (SCI 1区Top, CCF C)
 
 - [GCANet: Geometry cues-aware facial expression recognition based on graph convolutional networks](https://linkinghub.elsevier.com/retrieve/pii/S1319157823001593). S. Wang, A. Zhao, C. Lai, Q. Zhang, **D. Li**, et al. `Journal of King Saud University - Computer and Information Sciences` Volume 35, Issue 7,2023,101605. (SCI 2区)
 
