@@ -26,15 +26,6 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 
 
-
-
-
-
-
-
-
-
-
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,9 +43,9 @@ Welcome to join us! let's "Play" together!!!
 
 # 📝 Publications 
 
-- [Efficient Nodes Representation Learning with Residual Feature Propagation](http://link.springer.com/chapter/10.1007/978-3-030-75765-6_13). F. Wu, **D. Li\***, et al. PAKDD (2) 2021: 156-167. (CCF C)
+- [Efficient Nodes Representation Learning with Residual Feature Propagation](http://link.springer.com/chapter/10.1007/978-3-030-75765-6_13). F. Wu, **D. Li\***, et al. `PAKDD` (2) 2021: 156-167. (CCF C)
 
-- [CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms](https://linkinghub.elsevier.com/retrieve/pii/S0925231221005142). **D. Li**, et al. 'Neurocomputing', 455: 283-296 (2021) (SCI 2区Top)
+- [CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms](https://linkinghub.elsevier.com/retrieve/pii/S0925231221005142). **D. Li**, et al. `Neurocomputing`, 455: 283-296 (2021) (SCI 2区Top)
 
 
 
