@@ -38,6 +38,7 @@ The members in Data Analysis and Cognitive Inference (DACI) Laboratory are mainl
 The main research interests of DACI Lab include: recommendation system, representation learning, natural language processing, intention recognition, pattern recognition, computer vision and their applications in software engineering, intelligent education, digital humanities, sports & health, and smart factory. The team has published more than 40 SCI papers and high-level conference and journal papers. The laboratory has more than 40 doctors and masters, focusing on solving practical theoretical and engineering problems through new technologies. The team has established long-term cooperation with Zhongnan Hospital of Wuhan University, China University of Geosciences (Wuhan), Huazhong University of Science and Technology, Chongqing University of Posts and Telecommunications, Hubei University, Hubei University of Technology, Jiangxi Normal University and other universities.
 
 More info about Data Analysis and Cognitive Inference (DACI) Laboratory can be found in [THIS](https://www.dacilab.com). 
+
 Welcome to join us! let's "Play" together!!!
 
 
@@ -138,6 +139,7 @@ Welcome to join us! let's "Play" together!!!
 - 本科成绩单（硕士生提供）；
 - 一页纸的“研究动机说明”；
 - 其他有助于增进对您了解的材料（论文、专利、获奖等证明材料）
+  
 请将以上申请材料压缩发送至邮箱dacilab@aliyun.com，邮件标题命名为“学校-姓名.zip”格式命名，如“武汉大学-李四.zip”。
 
 
