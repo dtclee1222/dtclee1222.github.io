@@ -53,17 +53,10 @@ Welcome to join us! let's "Play" together!!!
 # 📝 Publications 
 
 - [Efficient Nodes Representation Learning with Residual Feature Propagation](http://link.springer.com/chapter/10.1007/978-3-030-75765-6_13). F. Wu, **D. Li\***, et al. PAKDD (2) 2021: 156-167. (CCF C)
->>@article{2021CARM,
->>title = {CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms},
->>journal = {Neurocomputing},
->>volume = {455},
->>pages = {283-296},
->>year = {2021},
->>author = {Duantengchuan Li and Hai Liu and Zhaoli Zhang and Ke Lin and Shuai Fang and Zhifei Li and Neal N. Xiong},
-}
 
-- <button onclick="alert("Hello\nHow are you?");">Bib</button>
-- [CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms](https://linkinghub.elsevier.com/retrieve/pii/S0925231221005142). **D. Li**, et al. Neurocomputing, 455: 283-296 (2021) (SCI 2区Top)
+- [CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms](https://linkinghub.elsevier.com/retrieve/pii/S0925231221005142). **D. Li**, et al. 'Neurocomputing', 455: 283-296 (2021) (SCI 2区Top)
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
