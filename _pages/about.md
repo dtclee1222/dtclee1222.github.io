@@ -44,20 +44,7 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 
 
-    <script type="text/javascript">
-        function showAlert() {
-            var text = `@article{2024MRSR,
-title = {Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system},
-journal = {Information Processing & Management},
-volume = {61},
-number = {3},
-pages = {103631},
-year = {2024},
-author = {Duantengchuan Li and Ceyu Deng and Xiaoguang Wang and Zhifei Li and Chao Zheng and Jing Wang and Bing Li},
-}`;
-            alert(text);
-        }
-    </script>
+<script type="text/javascript"> function showAlert() {alert("2024MRSR");}</script>
 
 
 <p>点击下面的文本:</p>
