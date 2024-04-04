@@ -112,7 +112,7 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 - *2018 - 2021*, Central China Normal University, Major: Computer science and Technology.
 
 # 💻 Internships
-- *2022.04*, Autonomous Driving Decision Planning Engineer,IN-DRIVING
+- *2022.04*, Autonomous Driving Decision Planning Engineer, IN-DRIVING
 
 
 # 🤖 DACI Lab
