@@ -49,6 +49,7 @@ Welcome to join us! let's "Play" together!!!
 
 # 📝 Publications 
 
+**Joint first authors are indicated using #, and corresponding authors using /***.
 
 - Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models. F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. NAACL Findings 2024. (CCF B)
 
@@ -70,7 +71,7 @@ Welcome to join us! let's "Play" together!!!
 
 - [MDLR: A Multi-Task Disentangled Learning Representations for unsupervised time series domain adaptation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003758). Y. Liu, **D. Li\***, et al. `Information Processing & Management` Volume 61, Issue 3, 2024, 103638. (SCI 1区Top, CCF B)
 
-- [Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation](https://linkinghub.elsevier.com/retrieve/pii/S0306457324000402). B. Liu$^1$, **D. Li$^1$**, et al. `Information Processing & Management` Volume 61, Issue 3, 2024, 103680. (SCI 1区Top, CCF B
+- [Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation](https://linkinghub.elsevier.com/retrieve/pii/S0306457324000402). B. Liu$^#$, **D. Li$^#$**, et al. `Information Processing & Management` Volume 61, Issue 3, 2024, 103680. (SCI 1区Top, CCF B
 
 - [Almost surely safe exploration and exploitation for deep reinforcement learning with state safety estimation](https://www.sciencedirect.com/science/article/abs/pii/S0020025524001749) K. Lin, Y. Li, Q. Liu, **D. Li**, et al. Information Sciences, Volume 662, 2024, 120261. (SCI 1区Top, CCF B)
 
