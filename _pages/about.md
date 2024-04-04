@@ -47,11 +47,7 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 <script type="text/javascript"> function showAlert() {alert("2024MRSR");}</script>
 
 
-<p>点击下面的文本:</p>
-<p style="color:blue; cursor:pointer;" onclick="showAlert()">123</p>
-
-
-- Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models. F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. (CCF B)
+- Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models. F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. <p style="color:blue; "onclick="showAlert()">[Bib]</p> (CCF B)
 
 - Reinforcement Learning-based Streaming Process Discovery under Concept Drift. Cai, C. Zheng, J. Wang, **D. Li**, et al. 36th International Conference on Advanced Information Systems Engineering (CAiSE 2024) (CCF B)
 
