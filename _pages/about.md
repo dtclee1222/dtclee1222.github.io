@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Lee at IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Network and Service Management, IEEE Transactions on Intelligent Vehicles,  IEEE Transactions on Services Computing, IEEE Transactions on Multimedia, Information Processing \& Management,  Future Generation Computer Systems, Knowledge Based Systems, Information Sciences,  Engineering Applications of Artificial Intelligence, Infrared Physics \& Technology, Neurocomputing, CAiSE, NAACL, ICWS,  PAKDD and other journals \& conferences published a number of papers and served as the Reviewer of the above journals & conferences.
+Dr. Lee at IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Network and Service Management, IEEE Transactions on Intelligent Vehicles,  IEEE Transactions on Services Computing, IEEE Transactions on Multimedia, Information Processing & Management,  Future Generation Computer Systems, Knowledge Based Systems, Information Sciences,  Engineering Applications of Artificial Intelligence, Infrared Physics & Technology, Neurocomputing, CAiSE, NAACL, ICWS,  PAKDD and other journals & conferences published a number of papers and served as the Reviewer of the above journals & conferences.
 
-Dr. Lee is currently the Director of the Data Analysis and Cognitive Inference (DACI) Laboratory, The [DACI Laboratory](https://www.dacilab.com) focus on solving practical problems in intelligent education, digital humanities, sports \& health, and smart factory. 
+Dr. Lee is currently the Director of the Data Analysis and Cognitive Inference (DACI) Laboratory, The [DACI Laboratory](https://www.dacilab.com) focus on solving practical problems in intelligent education, digital humanities, sports & health, and smart factory. 
 
 Dr. Lee research interest includes recommended system, knowledge graph, reinforcement learning, automated driving, large language model, computer vision, video understanding, etc. He has published more than 30+ papers at the top Journals and international conferences with total <a href='https://scholar.google.com/citations?user=VDzqb5UAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>. 
 
