@@ -23,104 +23,33 @@ Dr. Lee at IEEE Transactions on Neural Networks and Learning Systems, IEEE Trans
 
 Dr. Lee is also currently the Director of the Data Analysis and Cognitive Inference (DACI) Laboratory, The [DACI Laboratory](https://www.dacilab.com) focus on solving practical problems in intelligent education, digital humanities, sports & health, and smart factory. 
 
-
-
-
 <html>
 <head>
     <title>点击弹出文本框</title>
-    <style>
-        /* 模态框样式 */
-        .modal {
-            display: none; /* 默认隐藏模态框 */
-            position: fixed; /* 固定位置 */
-            z-index: 1; /* 设置在页面最前面 */
-            padding-top: 100px; /* 位置调整 */
-            left: 0;
-            top: 0;
-            width: 100%; /* 宽度占满屏幕 */
-            height: 100%; /* 高度占满屏幕 */
-            overflow: auto; /* 超出时可以滚动 */
-            background-color: rgb(0,0,0); /* 背景颜色 */
-            background-color: rgba(0,0,0,0.4); /* 透明度 */
+    <script type="text/javascript">
+        function showAlert() {
+            var text = `@article{2024MRSR,
+title = {Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system},
+journal = {Information Processing & Management},
+volume = {61},
+number = {3},
+pages = {103631},
+year = {2024},
+author = {Duantengchuan Li and Ceyu Deng and Xiaoguang Wang and Zhifei Li and Chao Zheng and Jing Wang and Bing Li},
+}`;
+            alert(text);
         }
-
-        /* 模态内容样式 */
-        .modal-content {
-            background-color: #fefefe;
-            margin: auto;
-            padding: 20px;
-            border: 1px solid #888;
-            width: 80%;
-        }
-
-        /* 关闭按钮样式 */
-        .close {
-            color: #aaaaaa;
-            float: right;
-            font-size: 28px;
-            font-weight: bold;
-        }
-
-        .close:hover,
-        .close:focus {
-            color: #000;
-            text-decoration: none;
-            cursor: pointer;
-        }
-    </style>
+    </script>
 </head>
 <body>
 
-
-
-<!-- 模态框 -->
-<div id="myModal" class="modal">
-
-  <!-- 模态内容 -->
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <pre id="modalText">文本内容将在这里显示</pre>
-  </div>
-
-</div>
-
-<script type="text/javascript">
-    const responses = {
-        "SD": "@article{2024MRSR,\n title = {Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system},\n journal = {Information Processing & Management},\n author = {Duantengchuan Li and Ceyu Deng and Xiaoguang Wang and Zhifei Li and Chao Zheng and Jing Wang and Bing Li}",
-        "你好": "hello",
-        "喝喝茶": "斤斤计较",
-        "111": "不好办",
-        "bib": "参考文献",
-        "和承诺不错": "达达调查"
-    };
-
-    // 显示模态框
-    function showModal(key) {
-        document.getElementById('modalText').innerText = responses[key];
-        document.getElementById('myModal').style.display = "block";
-    }
-
-    // 获取关闭按钮并添加关闭事件
-    var span = document.getElementsByClassName("close")[0];
-    span.onclick = function() {
-        document.getElementById('myModal').style.display = "none";
-    }
-
-    // 点击窗口外关闭模态框
-    window.onclick = function(event) {
-        if (event.target == document.getElementById('myModal')) {
-            document.getElementById('myModal').style.display = "none";
-        }
-    }
-</script>
+<p>点击下面的文本:</p>
+<p style="color:blue; cursor:pointer;" onclick="showAlert()">123</p>
 
 </body>
 </html>
 
 
-<p>点击下面的文本:</p>
-<span style="color:blue; cursor:pointer;" onclick="showModal('SD')">123</span>
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 One papers are accepted by IEEE Transactions on Services Computing
