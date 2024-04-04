@@ -28,7 +28,7 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 		const responses = {
-            "SD": "@article{1232024MRSR,\n title = {Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system},\n journal = {Information Processing \& Management},\n author = {Duantengchuan Li and Ceyu Deng and Xiaoguang Wang and Zhifei Li and Chao Zheng and Jing Wang and Bing Li}",
+            "SD": "@article{QQQ32024MRSR,\n" + "title = {Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system},\n" + " journal = {Information Processing \& Management},\n author = {Duantengchuan Li and Ceyu Deng and Xiaoguang Wang and Zhifei Li and Chao Zheng and Jing Wang and Bing Li}",
             "你好": "hello",
             "喝喝茶": "斤斤计较",
             "111": "不好办",
@@ -44,6 +44,8 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
 
 <p>点击下面的文本:</p>
 <span style="color:blue; cursor:pointer;" onclick="showAlert('SD')">123</span>
+
+
 
 </body>
 </html>
