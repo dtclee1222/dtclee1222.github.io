@@ -115,7 +115,7 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 - *2022.04*, Autonomous Driving Decision Planning Engineer,IN-DRIVING
 
 
-# 🤖 Data Analysis and Cognitive Inference Laboratory
+# 🤖 DACI Lab
 
 The members in Data Analysis and Cognitive Inference (DACI) Laboratory are mainly from Wuhan University, Huazhong University of Science and Technology, Harbin Institute of Technology (Shenzhen), Fudan University, Central China Normal University, China University of Geosciences (Wuhan), Hubei University, Hubei University of Technology, Wuhan Sports University, Beijing Sport University, and China Institute of Sport Science, etc. 
 
