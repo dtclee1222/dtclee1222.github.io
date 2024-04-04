@@ -123,6 +123,9 @@ Welcome to join us! let's "Play" together!!!
 - *2021 - 2024*, Wuhan University, Major: Software engineering. 
 - *2018 - 2021*, Central China Normal University, Major: Computer science and Technology.
 
+# 💻 Internships
+- *2022.04*, Autonomous Driving Decision Planning Engineer,IN-DRIVING
+
 # 🤝 Join DACI
 
 目前大多数大学与研究生课程主要是以通识课为主，由于学制限制和其他原因，很难做到对每门课程以及最新前沿技术有非常细致的讲解。因此，实验室面向有志于将来从事相关领域科研工作的小伙伴提供学习与深造的机会，要求学生积极主动、有上进心。对于有意愿选择数据分析与认知推理（DACI）实验室作为学习和深造的小伙伴，为帮助您更加确信您的选择是否明智，请耐心阅读如下说明：
