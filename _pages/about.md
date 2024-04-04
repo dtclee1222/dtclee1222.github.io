@@ -29,11 +29,8 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
     <script type="text/javascript">
 		const references = {
 	"2024PBScaler": "@ARTICLE{2024PBScaler, \n " + "author={Xie, Shuaiyu and Wang, Jian and Li, Bing and Zhang, Zekun and Li, Duantengchuan and Hung, Patrick C. K.}, \n" + "journal={IEEE Transactions on Services Computing}, \n" + "title={PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications}, \n" + "year={2024}, \n" + "pages={1-14}, \n" +"}",
-            "你好": "hello",
-            "喝喝茶": "斤斤计较",
-            "111": "不好办",
-            "bib": "参考文献",
-            "和承诺不错": "达达调查"
+	"2024MGIF": "@article{2024MGIF,\n " + "title = {Multi-perspective knowledge graph completion with global and interaction features}, \n " + "journal = {Information Sciences}, \n " + "volume = {666}, \n " + "pages = {120438}, \n " + "year = {2024}, \n " + "author = {Duantengchuan Li and Fobo Shi and Xiaoguang Wang and Chao Zheng and Yuefeng Cai and Bing Li},\n " + "}",	
+       
         };
         function showAlert(aa) {
            prompt("请复制下列的BibTex内容，然后粘贴到对应的.bib文件中。", references[aa]);
@@ -41,12 +38,6 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
     </script>
 </head>
 <body>
-
-<p>点击下面的文本:</p>
-
-
-
-
 </body>
 </html>
 
@@ -67,7 +58,7 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
 
 ## 🤖 Recommender System
 
-- [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PBScaler')">[Bib]</span>
+- [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
 
 - [Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation](https://linkinghub.elsevier.com/retrieve/pii/S0306457324000402). B. Liu<sup>#</sup>, **D. Li<sup>#</sup>**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
 
@@ -83,7 +74,7 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
 
 
 ## 🌐 Knowledge Graph
-- [Multi-perspective knowledge graph completion with global and interaction features](https://linkinghub.elsevier.com/retrieve/pii/S0020025524003517). **D. Li**, et al. **<font color=BlueViolet>Information Sciences</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
+- [Multi-perspective knowledge graph completion with global and interaction features](https://linkinghub.elsevier.com/retrieve/pii/S0020025524003517). **D. Li**, et al. **<font color=BlueViolet>Information Sciences</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MGIF')">[Bib]</span>
 
 - [SDFormer: A shallow-to-deep feature interaction for knowledge graph embedding](https://linkinghub.elsevier.com/retrieve/pii/S095070512301002X). **D. Li**, et al. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF C)
  
@@ -128,7 +119,7 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
 
   
 ## 📠 Others
-- [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. **<font color=BlueViolet>IEEE Transactions on Services Computing</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区, CCF A)
+- [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. **<font color=BlueViolet>IEEE Transactions on Services Computing</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区, CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PBScaler')">[Bib]</span>
 
 - [MDLR: A Multi-Task Disentangled Learning Representations for unsupervised time series domain adaptation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003758). Y. Liu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
 
