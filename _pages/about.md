@@ -142,5 +142,8 @@ Welcome to join us! let's "Play" together!!!
   
 请将以上申请材料压缩发送至邮箱dacilab@aliyun.com，邮件标题命名为“学校-姓名.zip”格式命名，如“武汉大学-李四.zip”。
 
+# 🗺️ Visitor Map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&m=7&c=e63100&cr1=ffffff&f=arial&l=0&bv=90&lx=-420&ly=420&hi=20&he=7&hc=a8ddff&rs=80" async="async"></script>
+
 
 
