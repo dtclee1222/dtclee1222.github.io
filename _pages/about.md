@@ -24,8 +24,22 @@ Dr. Lee at IEEE Transactions on Neural Networks and Learning Systems, IEEE Trans
 Dr. Lee is also currently the Director of the Data Analysis and Cognitive Inference (DACI) Laboratory, The [DACI Laboratory](https://www.dacilab.com) focus on solving practical problems in intelligent education, digital humanities, sports & health, and smart factory. 
 
 
+    <script type="text/javascript">
+		const responses = {
+            "SD": "@article{2024MRSR,\n title = {Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system},\n journal = {Information Processing \& Management},\n author = {Duantengchuan Li and Ceyu Deng and Xiaoguang Wang and Zhifei Li and Chao Zheng and Jing Wang and Bing Li}",
+            "你好": "hello",
+            "喝喝茶": "斤斤计较",
+            "111": "不好办",
+            "bib": "参考文献",
+            "和承诺不错": "达达调查"
+        };
+        function showAlert(aa) {
+            alert(responses[aa]);
+        }
+    </script>
 
-
+<p>点击下面的文本:</p>
+<span style="color:blue; cursor:pointer;" onclick="showAlert('SD')">123</span>
 
 
 # 🔥 News
