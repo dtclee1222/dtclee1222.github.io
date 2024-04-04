@@ -43,6 +43,16 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
 <span style="color:blue; cursor:pointer;" onclick="showAlert('SD')">123</span>
 
 
+
+
+
+ <script type="text/javascript">function showAlert() {var text = `@article{2024MRSR,`;alert(text);}</script>
+
+
+<p>点击下面的文本:</p>
+<p style="color:blue; cursor:pointer;" onclick="showAlert()">234</p>
+
+
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 One papers are accepted by IEEE Transactions on Services Computing
 - *2024.03*: &nbsp;🎉🎉 One papers are accepted by Information Sciences
