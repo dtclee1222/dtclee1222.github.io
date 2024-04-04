@@ -26,20 +26,7 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
 <html>
 <head>
     <title>点击弹出文本框</title>
-    <script type="text/javascript">
-        function showAlert() {
-            var text = `@article{2024MRSR,
-title = {Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system},
-journal = {Information Processing & Management},
-volume = {61},
-number = {3},
-pages = {103631},
-year = {2024},
-author = {Duantengchuan Li and Ceyu Deng and Xiaoguang Wang and Zhifei Li and Chao Zheng and Jing Wang and Bing Li},
-}`;
-            alert(text);
-        }
-    </script>
+    <script type="text/javascript">function showAlert() {var text = `@article{2024MRSR`;alert(text);}</script>
 </head>
 <body>
 
