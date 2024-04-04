@@ -41,24 +41,50 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 **Joint first authors are indicated using #, and corresponding authors using \***.
 
+## 🤖 Recommender System
+
+- [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
+
+- [Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation](https://linkinghub.elsevier.com/retrieve/pii/S0306457324000402). B. Liu<sup>#</sup>, **D. Li<sup>#</sup>**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
+
+- [BGCL: Bi-subgraph network based on graph contrastive learning for cold-start QoS prediction](https://linkinghub.elsevier.com/retrieve/pii/S0950705123000461). J. Zhu, B. Li, J. Wang, **D. Li**, et al. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF C)
+
+- [EDMF: Efficient Deep Matrix Factorization With Review Feature Learning for Industrial Recommender System](https://ieeexplore.ieee.org/document/9616457). H Liu, C Zheng, **D Li\***, et al. **<font color=BlueViolet>IEEE Transactions on Industrial Informatics</font>**, **<font color=BlueViolet>2022</font>**. (SCI 1区Top, CCF C)
+
+- [Multi-perspective social recommendation method with graph representation learning](https://linkinghub.elsevier.com/retrieve/pii/S0925231221015368). H. Liu, C. Zheng, **D. Li**, et al. **<font color=BlueViolet>Neurocomputing</font>**, **<font color=BlueViolet>2022</font>**. (SCI 2区Top, CCF C)
+
+- [EAMR: An Emotion-aware Music Recommender Method via Mel Spectrogram and Arousal-Valence Model](https://ieeexplore.ieee.org/document/9969215). Z. Fu, Z. Zhang, J. Zheng, K. Lin and **D. Li**. 2022 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML), Hangzhou, China, 2022, pp. 57-64.
+
+- [CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms](https://linkinghub.elsevier.com/retrieve/pii/S0925231221005142). **D. Li**, et al. **<font color=BlueViolet>Neurocomputing</font>**, **<font color=BlueViolet>2021</font>**. (SCI 2区Top)
 
 
-
-<script type="text/javascript"> function showAlert() {alert("2024MRSR");}</script>
-
-
-## Recommender System
-## Reinforcement Learning
-
-- Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models. F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. &nbsp <p style="color:blue; cursor:pointer;" onclick="showAlert()">[Bib]</p> (CCF B)
-
-<p style="color:blue; "onclick="showAlert()">[Bib]</p>
-
-- Reinforcement Learning-based Streaming Process Discovery under Concept Drift. Cai, C. Zheng, J. Wang, **D. Li**, et al. 36th International Conference on Advanced Information Systems Engineering (CAiSE 2024) (CCF B)
-
-- [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. **<font color=BlueViolet>IEEE Transactions on Services Computing</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区, CCF A)
-
+## 🌐 Knowledge Graph
 - [Multi-perspective knowledge graph completion with global and interaction features](https://linkinghub.elsevier.com/retrieve/pii/S0020025524003517). **D. Li**, et al. **<font color=BlueViolet>Information Sciences</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
+
+- [SDFormer: A shallow-to-deep feature interaction for knowledge graph embedding](https://linkinghub.elsevier.com/retrieve/pii/S095070512301002X). **D. Li**, et al. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF C)
+ 
+- [Knowledge graph representation learning with simplifying hierarchical feature propagation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323000857). Z. Li, Q. Zhang, F. Zhu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF B)
+
+- [Knowledge graph embedding model with attention-based high-low level features interaction convolutional network](https://linkinghub.elsevier.com/retrieve/pii/S0306457323000870). J. Wang, Q. Zhang, F. Shi, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF B)
+
+
+## 📚 Large Language Model
+
+- Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models. F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. (CCF B)
+
+  
+## 📷 Computer Vision
+
+- [DADL: Double Asymmetric Distribution Learning for head pose estimation in wisdom museum](https://linkinghub.elsevier.com/retrieve/pii/S1319157823004238). W. Zhao, S. Wang, X. Wang, **D. Li\***, et al. **<font color=BlueViolet>Journal of King Saud University-Computer and Information Sciences</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区)
+
+- [GCANet: Geometry cues-aware facial expression recognition based on graph convolutional networks](https://linkinghub.elsevier.com/retrieve/pii/S1319157823001593). S. Wang, A. Zhao, C. Lai, Q. Zhang, **D. Li**, et al. **<font color=BlueViolet>Journal of King Saud University-Computer and Information Sciences</font>**, **<font color=BlueViolet>2023</font>**. (SCI 2区)
+
+- [MFDNet: Collaborative Poses Perception and Matrix Fisher Distribution for Head Pose Estimation](https://ieeexplore.ieee.org/document/9435939). H. Liu, S. Fang, Z. Zhang, **D. Li\***, et al. **<font color=BlueViolet>IEEE Transactions Multimedia</font>**, **<font color=BlueViolet>2022</font>**. (SCI 1区Top, CCF B)
+
+- [Precise head pose estimation on HPD5A database for attention recognition based on convolutional neural network in human-computer interaction](https://linkinghub.elsevier.com/retrieve/pii/S1350449521001122). H. Liu, **D. Li\***, et al. **<font color=BlueViolet>Infrared Physics & Technology</font>**, **<font color=BlueViolet>2021</font>**. (SCI 2区)
+
+
+## 🔍 Reinforcement Learning
 
 - [FHCPL: An Intelligent Fixed-Horizon Constrained Policy Learning System for Risk-Sensitive Industrial Scenario](https://ieeexplore.ieee.org/document/10368334/). K. Lin, **D Li**, et al. **<font color=BlueViolet>IEEE Transactions on Industrial Informatics</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF C)
 
@@ -66,47 +92,27 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 - [TAG: Teacher-Advice Mechanism With Gaussian Process for Reinforcement Learning](https://ieeexplore.ieee.org/document/10093911). K. Lin, **D. Li**, et al. **<font color=BlueViolet>IEEE Transactions on Neural Networks and Learning Systems</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
 
-- [SDFormer: A shallow-to-deep feature interaction for knowledge graph embedding](https://linkinghub.elsevier.com/retrieve/pii/S095070512301002X). **D. Li**, et al. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF C)
-
-- [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
-
-- [MDLR: A Multi-Task Disentangled Learning Representations for unsupervised time series domain adaptation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003758). Y. Liu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
-
-- [Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation](https://linkinghub.elsevier.com/retrieve/pii/S0306457324000402). B. Liu<sup>#</sup>, **D. Li<sup>#</sup>**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B
+- Reinforcement Learning-based Streaming Process Discovery under Concept Drift. Cai, C. Zheng, J. Wang, **D. Li**, et al. 36th International Conference on Advanced Information Systems Engineering (CAiSE 2024) (CCF B)
 
 - [Almost surely safe exploration and exploitation for deep reinforcement learning with state safety estimation](https://www.sciencedirect.com/science/article/abs/pii/S0020025524001749) K. Lin, Y. Li, Q. Liu, **D. Li**, et al. **<font color=BlueViolet>Information Sciences</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
 
 - [Attention-Based Deep Reinforcement Learning for Edge User Allocation](https://ieeexplore.ieee.org/document/10172271/). J. Chang, J. Wang, B. Li, Y. Zhao and **D. Li**. **<font color=BlueViolet>IEEE Transactions on Network and Service Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区)
 
-- [DADL: Double Asymmetric Distribution Learning for head pose estimation in wisdom museum](https://linkinghub.elsevier.com/retrieve/pii/S1319157823004238). W. Zhao, S. Wang, X. Wang, **D. Li\***, et al. **<font color=BlueViolet>Journal of King Saud University-Computer and Information Sciences</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区)
+- [A Deep Reinforcement Learning-Based Pointer Scoring Network for Edge Task Scheduling](https://ieeexplore.ieee.org/document/10248259). Y. Zhao, D. Jiang, B. Li, L. Fu, J. Wang and **D. Li**. **<font color=BlueViolet>ICWS</font>**, **<font color=BlueViolet>2023</font>**. (CCF B)
 
-- [A Deep Reinforcement Learning-Based Pointer Scoring Network for Edge Task Scheduling](https://ieeexplore.ieee.org/document/10248259). Y. Zhao, D. Jiang, B. Li, L. Fu, J. Wang and **D. Li**. **<font color=BlueViolet>ICWS</font>**, **<font color=BlueViolet>2023</font>**. CCF B
+- [Integrating deep reinforcement learning with pointer networks for service request scheduling in edge computing](https://linkinghub.elsevier.com/retrieve/pii/S0950705122010760). Y. Zhao, B. Li, J. Wang, D. Jiang, **D. Li**. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2022</font>**. (SCI 1区Top, CCF C)
 
--  [Knowledge graph representation learning with simplifying hierarchical feature propagation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323000857). Z. Li, Q. Zhang, F. Zhu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF B)
+  
+## 📠 Others
+- [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. **<font color=BlueViolet>IEEE Transactions on Services Computing</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区, CCF A)
 
-- [Knowledge graph embedding model with attention-based high-low level features interaction convolutional network](https://linkinghub.elsevier.com/retrieve/pii/S0306457323000870). J. Wang, Q. Zhang, F. Shi, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF B)
-
-- [BGCL: Bi-subgraph network based on graph contrastive learning for cold-start QoS prediction](https://linkinghub.elsevier.com/retrieve/pii/S0950705123000461). J. Zhu, B. Li, J. Wang, **D. Li**, et al. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF C)
-
-- [GCANet: Geometry cues-aware facial expression recognition based on graph convolutional networks](https://linkinghub.elsevier.com/retrieve/pii/S1319157823001593). S. Wang, A. Zhao, C. Lai, Q. Zhang, **D. Li**, et al. **<font color=BlueViolet>Journal of King Saud University-Computer and Information Sciences</font>**, **<font color=BlueViolet>2023</font>**. (SCI 2区)
-
-- [MFDNet: Collaborative Poses Perception and Matrix Fisher Distribution for Head Pose Estimation](https://ieeexplore.ieee.org/document/9435939). H. Liu, S. Fang, Z. Zhang, **D. Li\***, et al. **<font color=BlueViolet>IEEE Transactions Multimedia</font>**, **<font color=BlueViolet>2022</font>**. (SCI 1区Top, CCF B)
-
-- [EDMF: Efficient Deep Matrix Factorization With Review Feature Learning for Industrial Recommender System](https://ieeexplore.ieee.org/document/9616457). H Liu, C Zheng, **D Li\***, et al. **<font color=BlueViolet>IEEE Transactions on Industrial Informatics</font>**, **<font color=BlueViolet>2022</font>**. (SCI 1区Top, CCF C)
-
-- [Multi-perspective social recommendation method with graph representation learning](https://linkinghub.elsevier.com/retrieve/pii/S0925231221015368). H. Liu, C. Zheng, **D. Li**, et al. **<font color=BlueViolet>Neurocomputing</font>**, **<font color=BlueViolet>2022</font>**. (SCI 2区Top, CCF C)
+- [MDLR: A Multi-Task Disentangled Learning Representations for unsupervised time series domain adaptation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003758). Y. Liu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
 
 - [Multi-information fusion based few-shot Web service classification](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2100501X). Y. Liu, B. Li, J. Wang , **D. Li** , et al. **<font color=BlueViolet>Future Generation Computer Systems</font>**, **<font color=BlueViolet>2022</font>**. (SCI 2区Top, CCF C)
   
-- [Integrating deep reinforcement learning with pointer networks for service request scheduling in edge computing](https://linkinghub.elsevier.com/retrieve/pii/S0950705122010760). Y. Zhao, B. Li, J. Wang, D. Jiang, **D. Li**. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2022</font>**. (SCI 1区Top, CCF C)
-
-- [EAMR: An Emotion-aware Music Recommender Method via Mel Spectrogram and Arousal-Valence Model](https://ieeexplore.ieee.org/document/9969215). Z. Fu, Z. Zhang, J. Zheng, K. Lin and **D. Li**. 2022 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML), Hangzhou, China, 2022, pp. 57-64.
-
-- [Precise head pose estimation on HPD5A database for attention recognition based on convolutional neural network in human-computer interaction](https://linkinghub.elsevier.com/retrieve/pii/S1350449521001122). H. Liu, **D. Li\***, et al. **<font color=BlueViolet>Infrared Physics & Technology</font>**, **<font color=BlueViolet>2021</font>**. (SCI 2区)
-
 - [Efficient Nodes Representation Learning with Residual Feature Propagation](http://link.springer.com/chapter/10.1007/978-3-030-75765-6_13). F. Wu, **D. Li\***, et al. **<font color=BlueViolet>PAKDD</font>**, **<font color=BlueViolet>2021</font>**. (CCF C)
 
-- [CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms](https://linkinghub.elsevier.com/retrieve/pii/S0925231221005142). **D. Li**, et al. **<font color=BlueViolet>Neurocomputing</font>**, **<font color=BlueViolet>2021</font>**. (SCI 2区Top)
+
 
 
 
@@ -128,7 +134,7 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 - *2022.04*, Autonomous Driving Decision Planning Engineer, IN-DRIVING
 
 
-# 🤖 DACI Lab
+# 🖥️ DACI Lab
 
 The members in Data Analysis and Cognitive Inference (DACI) Laboratory are mainly from Wuhan University, Huazhong University of Science and Technology, Harbin Institute of Technology (Shenzhen), Fudan University, Central China Normal University, China University of Geosciences (Wuhan), Hubei University, Hubei University of Technology, Wuhan Sports University, Beijing Sport University, and China Institute of Sport Science, etc. 
 
