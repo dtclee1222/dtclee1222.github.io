@@ -27,8 +27,8 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
 <head>
     <title>点击弹出文本框</title>
     <script type="text/javascript">
-		const responses = {
-            "SD": "@article{QQQ32024MRSR,\n" + "title = {Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system},\n" + " journal = {Information Processing \& Management},\n author = {Duantengchuan Li and Ceyu Deng and Xiaoguang Wang and Zhifei Li and Chao Zheng and Jing Wang and Bing Li}",
+		const references = {
+	"2024PBScaler": "@ARTICLE{2024PBScaler, \n " + "author={Xie, Shuaiyu and Wang, Jian and Li, Bing and Zhang, Zekun and Li, Duantengchuan and Hung, Patrick C. K.}, \n" + "journal={IEEE Transactions on Services Computing}, \n" + "title={PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications}, \n" + "year={2024}, \n" + "pages={1-14}, \n" +"}",
             "你好": "hello",
             "喝喝茶": "斤斤计较",
             "111": "不好办",
@@ -36,7 +36,7 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
             "和承诺不错": "达达调查"
         };
         function showAlert(aa) {
-           prompt("复制下面的内容：", responses[aa]);
+           prompt("请复制下列的BibTex内容，然后粘贴到对应的.bib文件中。", references[aa]);
         }
     </script>
 </head>
@@ -67,7 +67,7 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
 
 ## 🤖 Recommender System
 
-- [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('SD')">123</span>
+- [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PBScaler')">[Bib]</span>
 
 - [Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation](https://linkinghub.elsevier.com/retrieve/pii/S0306457324000402). B. Liu<sup>#</sup>, **D. Li<sup>#</sup>**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B)
 
