@@ -59,7 +59,7 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 - [MDLR: A Multi-Task Disentangled Learning Representations for unsupervised time series domain adaptation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003758). Y. Liu, **D. Li\***, et al. `Information Processing & Management` Volume 61, Issue 3, 2024, 103638. (SCI 1区Top, CCF B)
 
-- [Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation](https://linkinghub.elsevier.com/retrieve/pii/S0306457324000402). B. Liu$^\#$, **D. Li$^\#$**, et al. `Information Processing & Management` Volume 61, Issue 3, 2024, 103680. (SCI 1区Top, CCF B
+- [Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation](https://linkinghub.elsevier.com/retrieve/pii/S0306457324000402). B. Liu$^{\#}$, **D. Li$^{\#}$**, et al. `Information Processing & Management` Volume 61, Issue 3, 2024, 103680. (SCI 1区Top, CCF B
 
 - [Almost surely safe exploration and exploitation for deep reinforcement learning with state safety estimation](https://www.sciencedirect.com/science/article/abs/pii/S0020025524001749) K. Lin, Y. Li, Q. Liu, **D. Li**, et al. Information Sciences, Volume 662, 2024, 120261. (SCI 1区Top, CCF B)
 
@@ -108,8 +108,8 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
   
 # 📖 Educations
 - *2022 - now*, Wuhan University, Assistant researcher. 
-- *2021 - 2024*, Wuhan University, Major: Software engineering. 
-- *2018 - 2021*, Central China Normal University, Major: Computer science and Technology.
+- *2021 - 2024*, Doctor, Wuhan University, Major: Software engineering. 
+- *2018 - 2021*, Master, Central China Normal University, Major: Computer science and Technology.
 
 # 💻 Internships
 - *2022.04*, Autonomous Driving Decision Planning Engineer, IN-DRIVING
