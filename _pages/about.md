@@ -37,7 +37,7 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 # 📝 Publications 
 
-**Joint first authors are indicated using #, and corresponding authors using /***.
+**Joint first authors are indicated using #, and corresponding authors using \***.
 
 - Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models. F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. NAACL Findings 2024. (CCF B)
 
