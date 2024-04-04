@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<link rel="shortcut icon" href=" /images/favicon.ico" />
+
 <span class='anchor' id='about-me'></span>
 
 Dr. Lee at IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Network and Service Management, IEEE Transactions on Intelligent Vehicles,  IEEE Transactions on Services Computing, IEEE Transactions on Multimedia, Information Processing & Management,  Future Generation Computer Systems, Knowledge Based Systems, Information Sciences,  Engineering Applications of Artificial Intelligence, Infrared Physics & Technology, Neurocomputing, CAiSE, NAACL, ICWS,  PAKDD and other journals & conferences published a number of papers and served as the Reviewer of the above journals & conferences.
