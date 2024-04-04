@@ -27,8 +27,13 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03*: &nbsp;🎉🎉 One papers are accepted by IEEE Transactions on Services Computing
+- *2024.03*: &nbsp;🎉🎉 One papers are accepted by Information Sciences
+- *2024.01*: &nbsp;🎉🎉 One papers are accepted by Information Processing & Management
+- *2023.12*: &nbsp;🎉🎉 Two papers are accepted by Information Processing & Management
+- *2023.11*: &nbsp;🎉🎉 Two papers are accepted by Knowledge-Based Systems
+- *2023.05*: &nbsp;🎉🎉 One papers are accepted by IEEE Transactions on Intelligent Vehicles
+- *2023.04*: &nbsp;🎉🎉 One papers are accepted by IEEE Transactions on Neural Networks and Learning Systems
 
 
 # 🤖 Data Analysis and Cognitive Inference Laboratory
@@ -125,13 +130,13 @@ Welcome to join us! let's "Play" together!!!
 
 2.您是否愿意将大部分精力投入于研究工作中？如果您有兼职工作或其他事情会占据您绝大多数时间，DACI实验室可能不是您的最佳选择。
 
-3.实验室主要面向本科生（主要面向大一、大二本科生）、研究生（主要面向研一学生）因为这给了我们更多时间规划更为长远而有意义的研究课题，并进行更为系统的科研训练。当然，这并不意味着我们不欢迎其他年级的学生。**由于实验室处于武汉市，遂主要面向的是武汉高校（省外学生如果进入实验室意愿极其强烈并且愿意花时间学习也可考虑）**。
+3.实验室主要面向本科生（主要面向大一、大二本科生）、研究生（主要面向研一学生）因为这给了我们更多时间规划更为**长远而有意义、有趣的和好玩的工作**，并进行更为系统的科研训练。当然，这并不意味着我们不欢迎其他年级的学生。**由于实验室处于武汉市，遂主要面向的是武汉高校（省外学生如果进入实验室意愿极其强烈并且愿意花时间学习也可考虑）**。
 
 4.对我们来说，理想的申请者大致是这样的：扎实的数学基础、熟练的英文读写能力、过硬的编程能力，同时逻辑思维清晰、表达能力强，最好还能乐观积极、坚韧不拔、亲和力强。当然理想和现实我们也是分得清的，但是只要你愿意花时间专研、不惧困难、踏实努力，我们都非常欢迎您成为我们的一员，因为我们认为态度决定一切！在实验室培养中也会非常重视上述能力的建设。
 
 5.所有申请者都需要经过DACI实验室组织的面试才能被接受。面试的目的是给我们双方一个面对面了解对方的机会，以此来帮助您判断是否适合到DACI实验室学习。因此，被接受并不意味着成功，没被接受也不意味着失败。
 
-6.进入实验室的学生需要了解和履行的要求请阅读（[DACI实验室招生说明](https://dtclee1222.github.io/_papges/DACI实验室招生说明.pdf)）。
+6.进入实验室的学生需要了解和履行的要求请阅读（[DACI实验室招生说明](https://dtclee1222.github.io/_pages/DACI实验室招生说明.pdf)）。
 
 7.申请材料（申请材料建议使用PDF格式）
 - DACI实验室招生说明
@@ -142,8 +147,11 @@ Welcome to join us! let's "Play" together!!!
   
 请将以上申请材料压缩发送至邮箱dacilab@aliyun.com，邮件标题命名为“学校-姓名.zip”格式命名，如“武汉大学-李四.zip”。
 
-# 🗺️ Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&m=7&c=e63100&cr1=ffffff&f=arial&l=0&bv=90&lx=-420&ly=420&hi=20&he=7&hc=a8ddff&rs=80" async="async"></script>
+>DACI实验室鼓励大家参加各种运动，篮球🏀、足球⚽️、骑行🚵🏻‍♂️、羽毛球🏸、网球🎾、健身💪⛹️🏋️ 等(实验室有很多各种专项的专业运动员和健身教练，实验室每周都会组织一些集体运动)。 除此之外，每个月我们都至少举行一场小型音乐live，唱唱歌玩玩乐器，当然，实验室也有各种乐器，电钢🎹、吉他🎸、罗兰CUBE音箱🎶🎤、萨克斯🎷、还有雅马哈的一些编曲设备等，也欢迎喜欢玩音乐和编曲的小伙伴们加入DACI一起玩乐。此外，实验室很鼓励大家阅读，实验室会定期购买不同领域的书籍（文史哲偏多），也希望大家能扩充自己的见解，扩展自己的知识面，从书中吸取养分。
 
+**科研和项目不是生活的全部，一定需要诗和远方🪀🎶！！**
+
+# 🗺️ Visitor Map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
 
