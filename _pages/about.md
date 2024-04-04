@@ -41,22 +41,26 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 **Joint first authors are indicated using #, and corresponding authors using \***.
 
-<script type="text/javascript"> 
-	function stopPropagation(e) {
-		if (e.stopPropagation)
-			e.stopPropagation();
-		else
-			e.cancelBubble = true;
-	}
 
-	$(document).bind('click', function() {
-		$('#test').css('display', 'none');
-	});
 
-	$('#test').bind('click', function(e) {
-		stopPropagation(e);
-	});
-</script>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script type="text/javascript">
+			function clickMe() {
+				alert(“1234”);
+			}
+		</script>
+	</head>
+	<body>
+		<input type="text" id="inputId" value="hello" />
+		<button  onclick="clickMe()">点我</button>
+	</body>
+</html>
+
+
 
 - Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models. F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. (CCF B)
 
