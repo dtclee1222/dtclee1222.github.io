@@ -43,6 +43,27 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 
 
+
+    <script type="text/javascript">
+        function showAlert() {
+            var text = `@article{2024MRSR,
+title = {Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system},
+journal = {Information Processing & Management},
+volume = {61},
+number = {3},
+pages = {103631},
+year = {2024},
+author = {Duantengchuan Li and Ceyu Deng and Xiaoguang Wang and Zhifei Li and Chao Zheng and Jing Wang and Bing Li},
+}`;
+            alert(text);
+        }
+    </script>
+
+
+<p>点击下面的文本:</p>
+<p style="color:blue; cursor:pointer;" onclick="showAlert()">123</p>
+
+
 - Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models. F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. (CCF B)
 
 - Reinforcement Learning-based Streaming Process Discovery under Concept Drift. Cai, C. Zheng, J. Wang, **D. Li**, et al. 36th International Conference on Advanced Information Systems Engineering (CAiSE 2024) (CCF B)
