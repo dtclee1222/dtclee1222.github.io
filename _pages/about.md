@@ -21,7 +21,7 @@ Dr. Lee at IEEE Transactions on Neural Networks and Learning Systems, IEEE Trans
 
 Dr. Lee is currently the Director of the Data Analysis and Cognitive Inference (DACI) Laboratory, The [DACI Laboratory](https://www.dacilab.com) focus on solving practical problems in intelligent education, digital humanities, sports & health, and smart factory. 
 
-Dr. Lee research interest includes recommended system, knowledge graph, reinforcement learning, automated driving, large language model, computer vision, video understanding, etc. He has published more than 30+ papers at the top Journals and international conferences with total <a href='https://scholar.google.com/citations?user=VDzqb5UAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=VDzqb5UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Dr. Lee research interest includes recommended system, knowledge graph, reinforcement learning, automated driving, large language model, computer vision, video understanding, etc. He has published more than 30+ papers at the top Journals and international conferences with total <a href='https://scholar.google.com/citations?user=VDzqb5UAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>. 
 
 
 
