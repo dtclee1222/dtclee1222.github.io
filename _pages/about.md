@@ -26,7 +26,7 @@ Dr. Lee is also currently the Director of the Data Analysis and Cognitive Infere
 <html>
 <head>
     <title>点击弹出文本框</title>
-    <script type="text/javascript">const responses = {"SD": "@article{2024MRSR,\n title = {Joint inter-word and inter-sentence multi-relatio","你好": "hello","喝喝茶": "斤斤计较","111": "不好办","bib": "参考文献"};function showAlert() {var text = `@article{2024MRSR`;alert(text);}</script>
+    <script type="text/javascript">const responses = {"SD": "@article{22222024MRSR,“+\n+“ title = {Joint inter-word and inter-sentence multi-relatio","你好": "hello","喝喝茶": "斤斤计较","111": "不好办","bib": "参考文献"};function showAlert() {var text = `@article{2024MRSR`;alert(text);}</script>
 </head>
 <body>
 
