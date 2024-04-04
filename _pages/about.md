@@ -47,7 +47,7 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 - [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. `IEEE Transactions on Services Computing` 2024. (SCI 2区, CCF A)
 
-- [Multi-perspective knowledge graph completion with global and interaction features](https://linkinghub.elsevier.com/retrieve/pii/S0020025524003517). **D. Li**, et al. **<font color=#4B0082>Information Sciences</font>** `Information Sciences` Volume 666, 2024, 120438. (SCI 1区Top, CCF B)
+- [Multi-perspective knowledge graph completion with global and interaction features](https://linkinghub.elsevier.com/retrieve/pii/S0020025524003517). **D. Li**, et al. <font color=#4B0082>Information Sciences</font> `Information Sciences` Volume 666, 2024, 120438. (SCI 1区Top, CCF B)
 
 - [FHCPL: An Intelligent Fixed-Horizon Constrained Policy Learning System for Risk-Sensitive Industrial Scenario](https://ieeexplore.ieee.org/document/10368334/). K. Lin, **D Li**, et al. `IEEE Transactions on Industrial Informatics` 2024. (SCI 1区Top, CCF C)
 
