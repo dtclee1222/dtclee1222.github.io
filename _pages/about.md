@@ -43,8 +43,7 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 
 
 
-<!DOCTYPE html>
-<html>
+
 	<head>
 		<meta charset="utf-8">
 		<title></title>
@@ -58,7 +57,7 @@ Dr. Lee research interest includes recommended system, knowledge graph, reinforc
 		<input type="text" id="inputId" value="hello" />
 		<button  onclick="clickMe()">点我</button>
 	</body>
-</html>
+
 
 
 
