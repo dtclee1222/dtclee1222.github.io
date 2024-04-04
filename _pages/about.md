@@ -15,7 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<link rel="shortcut icon" href=" /images/favicon.ico" />
+<head>
+<link rel="shortcut icon" href="/images/favicon.ico" />
+</head>
 
 <span class='anchor' id='about-me'></span>
 
