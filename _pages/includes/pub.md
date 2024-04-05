@@ -42,13 +42,17 @@
 
 
 
+
+
+
+
 # 📝 Publications 
 
 **Joint first authors are indicated using #, and corresponding authors using \***.
 
 ## 🤖 Recommender System
 
-- [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MRSR')">[Bib]</span>
+- [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MRSR')">[Bib]</span>|[[PDF](www.baidu.com)] | [HHH]
 
 - [Integrating user short-term intentions and long-term preferences in heterogeneous hypergraph networks for sequential recommendation](https://linkinghub.elsevier.com/retrieve/pii/S0306457324000402). B. Liu<sup>#</sup>, **D. Li<sup>#</sup>**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024IPSRec')">[Bib]</span>
 
