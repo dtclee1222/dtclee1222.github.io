@@ -21,6 +21,11 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
+{% include_relative includes/news.md %}
+
+{% include_relative includes/pub.md %}
+
+{% include_relative includes/honers.md %}
 
 
 <html>
@@ -65,14 +70,7 @@ redirect_from:
 
 
 
-# 🔥 News
-- *2024.03*: &nbsp;🎉🎉 One papers are accepted by IEEE Transactions on Services Computing
-- *2024.03*: &nbsp;🎉🎉 One papers are accepted by Information Sciences
-- *2024.01*: &nbsp;🎉🎉 One papers are accepted by Information Processing & Management
-- *2023.12*: &nbsp;🎉🎉 Two papers are accepted by Information Processing & Management
-- *2023.11*: &nbsp;🎉🎉 One papers are accepted by Knowledge-Based Systems
-- *2023.05*: &nbsp;🎉🎉 One papers are accepted by IEEE Transactions on Intelligent Vehicles
-- *2023.04*: &nbsp;🎉🎉 One papers are accepted by IEEE Transactions on Neural Networks and Learning Systems
+
 
 # 📝 Publications 
 
