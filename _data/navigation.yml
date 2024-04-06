@@ -18,11 +18,12 @@ main:
   - title: "Internships"
     url: "/#-internships"
     
-  - title: "DACI Lab"
-    url: "/#-dacilab"
+  - title: "Data Analysis and Cognitive Inference Laboratory"
+    url: "/#-data-analysis-and-cognitive-inference-laboratory"
   
   - title: "Join DACI"
     url: "/#-join-daci"
+    
  # - title: "Invited Talks"
 #    url: "/#-invited-talks"
 
