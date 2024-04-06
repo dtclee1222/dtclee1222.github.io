@@ -15,10 +15,10 @@ main:
   - title: "Educations & Internships"
     url: "/#-educations"
     
-#  - title: "Internships"
-#    url: "/#-internships"
+ - title: "Internships"
+   url: "/#-internships"
     
-  - title: "DACI Lab"
+  - title: "Daci Lab"
     url: "/#-daci-lab"
   
   - title: "Join DACI"
