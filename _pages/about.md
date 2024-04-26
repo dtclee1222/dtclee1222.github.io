@@ -29,7 +29,7 @@ redirect_from:
 
 {% include_relative includes/intern.md %}
 
-{% include_relative includes/daci.md %}
+{% include_relative includes/dacilab.md %}
 
 {% include_relative includes/join.md %}
 
