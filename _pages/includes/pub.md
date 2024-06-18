@@ -3,6 +3,7 @@
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 	const references = {
+	"2024SoEval": "@article{2024SoEval, \n " + "title = {Are LLMs good at structured outputs? A benchmark for evaluating structured output capabilities in LLMs}, \n" + "journal = {Information Processing \\& Management}, \n" + "volume = {61}, \n" + "number = {5}, \n" + "pages = {103809}, \n" + "year = {2024}, \n" + "doi = {https://doi.org/10.1016/j.ipm.2024.103809}, \n" + "author = {Yu Liu and Duantengchuan Li and Kaili Wang and Zhuoran Xiong and Fobo Shi and Jian Wang and Bing Li and Bo Hang},\n" + "}",
 	"2024PBScaler": "@ARTICLE{2024PBScaler, \n " + "author={Xie, Shuaiyu and Wang, Jian and Li, Bing and Zhang, Zekun and Li, Duantengchuan and Hung, Patrick C. K.}, \n" + "journal={IEEE Transactions on Services Computing}, \n" + "title={PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications}, \n" + "year={2024}, \n" + "pages={1-14}, \n" +"}",
 	"2024MGIF": "@article{2024MGIF,\n " + "title = {Multi-perspective knowledge graph completion with global and interaction features}, \n " + "journal = {Information Sciences}, \n " + "volume = {666}, \n " + "pages = {120438}, \n " + "year = {2024}, \n " + "author = {Duantengchuan Li and Fobo Shi and Xiaoguang Wang and Chao Zheng and Yuefeng Cai and Bing Li},\n " + "}",
         "2024FHCPL": "@ARTICLE{10368334, \n" + "author={Lin, Ke and Li, Duantengchuan and Li, Yanjie and Chen, Shiyu and Wu, Xindong}, \n" + "journal={IEEE Transactions on Industrial Informatics},  \n" + "title={FHCPL: An Intelligent Fixed-Horizon Constrained Policy Learning System for Risk-Sensitive Industrial Scenario},  \n" + "year={2024}, \n" + "volume={20}, \n" + "number={4}, \n" + "pages={5794-5804}}",
@@ -78,6 +79,8 @@
 
 
 ## 📚 Large Language Model
+
+- [Are LLMs good at structured outputs? A benchmark for evaluating structured output capabilities in LLMs](https://www.sciencedirect.com/science/article/pii/S0306457324001687). Y. Liu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024SoEval')">[Bib]</span>, **[[PDF](_pages/paper/2024-SoEval.pdf)]**
 
 - Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models. F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. (CCF B) 
   
