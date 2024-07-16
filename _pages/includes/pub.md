@@ -3,6 +3,7 @@
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 	const references = {
+ 	 "2024HGNRec": "@article{2024HGNRec, \n " + "title = {Homogeneous graph neural networks for third-party library recommendation}, \n " + "journal = {Information Processing \\& Management}, \n " + "volume = {61}, \n " + "number = {6}, \n " + "pages = {103831}, \n " + "year = {2024}, \n " + "author = {Duantengchuan Li and Yuxuan Gao and Zhihao Wang and Hua Qiu and Pan Liu and Zhuoran Xiong and Zilong Zhang}, \n " + "doi = {https://doi.org/10.1016/j.ipm.2024.103831}, \n " + "}",
 	"2024RLSPD": "@InProceedings{2024RLSPD, \n " + "author={Cai, Rujian and Zheng, Chao and Wang, Jian and Li, Duantengchuan and Wang, Chong and Li, Bing},  \n " + "title={Reinforcement Learning-Based Streaming Process Discovery Under Concept Drift},  \n " + "booktitle={Advanced Information Systems Engineering},  \n " + "year={2024},  \n " + "pages={55--70}, \n " + "}",
 	"2024SoEval": "@article{2024SoEval, \n " + "title = {Are LLMs good at structured outputs? A benchmark for evaluating structured output capabilities in LLMs}, \n" + "journal = {Information Processing \\& Management}, \n" + "volume = {61}, \n" + "number = {5}, \n" + "pages = {103809}, \n" + "year = {2024}, \n" + "doi = {https://doi.org/10.1016/j.ipm.2024.103809}, \n" + "author = {Yu Liu and Duantengchuan Li and Kaili Wang and Zhuoran Xiong and Fobo Shi and Jian Wang and Bing Li and Bo Hang},\n" + "}",
 	"2024PBScaler": "@ARTICLE{2024PBScaler, \n " + "author={Xie, Shuaiyu and Wang, Jian and Li, Bing and Zhang, Zekun and Li, Duantengchuan and Hung, Patrick C. K.}, \n" + "journal={IEEE Transactions on Services Computing}, \n" + "title={PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications}, \n" + "year={2024}, \n" + "pages={1-14}, \n" +"}",
@@ -53,6 +54,7 @@
 **Joint first authors are indicated using #, and corresponding authors using \***.
 
 ## 🤖 Recommender System
+- [Homogeneous graph neural networks for third-party library recommendation](https://www.sciencedirect.com/science/article/pii/S0306457324001900). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024HGNRec')">[Bib]</span>, **[[PDF](_pages/paper/2024-HGNRec.pdf)]**
 
 - [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MRSR')">[Bib]</span>, **[[PDF](_pages/paper/2024-MRSR.pdf)]**
 
