@@ -3,6 +3,7 @@
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 	const references = {
+	"2024PromptSpace": "@inproceedings{2024PromptSpace,  \n " + "title = {Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models},  \n " + "author = {Shi, Fobo  and Qing, Peijun  and Yang, Dong  and Wang, Nan  and Lei, Youbo  and Lu, Haonan  and Lin, Xiaodong  and Li, Duantengchuan},  \n " + "booktitle = {Findings of the Association for Computational Linguistics: NAACL 2024},  \n " + "month = {jun},  \n " + "year = {2024},  \n " + "address = {Mexico City, Mexico}, \n " + "publisher = {Association for Computational Linguistics}, \n " + "url = {https://aclanthology.org/2024.findings-naacl.119}, \n " + "doi = {10.18653/v1/2024.findings-naacl.119}, \n " + "pages = {1836--1862}, \n " + "}",
  	 "2024HGNRec": "@article{2024HGNRec, \n " + "title = {Homogeneous graph neural networks for third-party library recommendation}, \n " + "journal = {Information Processing \\& Management}, \n " + "volume = {61}, \n " + "number = {6}, \n " + "pages = {103831}, \n " + "year = {2024}, \n " + "author = {Duantengchuan Li and Yuxuan Gao and Zhihao Wang and Hua Qiu and Pan Liu and Zhuoran Xiong and Zilong Zhang}, \n " + "doi = {https://doi.org/10.1016/j.ipm.2024.103831}, \n " + "}",
 	"2024RLSPD": "@InProceedings{2024RLSPD, \n " + "author={Cai, Rujian and Zheng, Chao and Wang, Jian and Li, Duantengchuan and Wang, Chong and Li, Bing},  \n " + "title={Reinforcement Learning-Based Streaming Process Discovery Under Concept Drift},  \n " + "booktitle={Advanced Information Systems Engineering},  \n " + "year={2024},  \n " + "pages={55--70}, \n " + "}",
 	"2024SoEval": "@article{2024SoEval, \n " + "title = {Are LLMs good at structured outputs? A benchmark for evaluating structured output capabilities in LLMs}, \n" + "journal = {Information Processing \\& Management}, \n" + "volume = {61}, \n" + "number = {5}, \n" + "pages = {103809}, \n" + "year = {2024}, \n" + "doi = {https://doi.org/10.1016/j.ipm.2024.103809}, \n" + "author = {Yu Liu and Duantengchuan Li and Kaili Wang and Zhuoran Xiong and Fobo Shi and Jian Wang and Bing Li and Bo Hang},\n" + "}",
@@ -86,7 +87,14 @@
 
 - [Are LLMs good at structured outputs? A benchmark for evaluating structured output capabilities in LLMs](https://www.sciencedirect.com/science/article/pii/S0306457324001687). Y. Liu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024SoEval')">[Bib]</span>, **[[PDF](_pages/paper/2024-SoEval.pdf)]**
 
-- [Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models](https://arxiv.org/abs/2306.03799). F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. (CCF B) 
+- [Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models](https://aclanthology.org/2024.findings-naacl.119/#). F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. (CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PromptSpace')">[Bib]</span>, **[[PDF](_pages/paper/2024-PromptSpace.pdf)]**
+
+
+
+
+
+
+
   
 ## 📷 Computer Vision
 
@@ -121,7 +129,7 @@
 ## 📠 Others
 
 
-- [SGAP: Enhancing Predictive Process Monitoring with Sequential Graphs and Trace Attention). Y. Deng, J. Wang, C. Wang, C. Zheng,  **D. Li** and B. Li  **<font color=BlueViolet>ICWS</font>**, **<font color=BlueViolet>2024</font>**. (CCF B)
+- [SGAP: Enhancing Predictive Process Monitoring with Sequential Graphs and Trace Attention](). Y. Deng, J. Wang, C. Wang, C. Zheng,  **D. Li** and B. Li  **<font color=BlueViolet>ICWS</font>**, **<font color=BlueViolet>2024</font>**. (CCF B)
 
 - [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. **<font color=BlueViolet>IEEE Transactions on Services Computing</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区, CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PBScaler')">[Bib]</span>, **[[PDF](_pages/paper/2024-PBScaler.pdf)]**
 
