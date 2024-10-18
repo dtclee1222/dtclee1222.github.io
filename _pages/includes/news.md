@@ -1,4 +1,6 @@
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering（CCF A）
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by 《计算机科学》（CCF推荐中文期刊）
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by Information Processing & Management
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by Information Processing & Management
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by ICWS 2024 (CCF B)
