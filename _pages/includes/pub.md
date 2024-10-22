@@ -128,9 +128,6 @@
   
 ## 📠 Others
 
-
-- [SGAP: Enhancing Predictive Process Monitoring with Sequential Graphs and Trace Attention](). Y. Deng, J. Wang, C. Wang, C. Zheng,  **D. Li** and B. Li  **<font color=BlueViolet>ICWS</font>**, **<font color=BlueViolet>2024</font>**. (CCF B)
-
 - [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. **<font color=BlueViolet>IEEE Transactions on Services Computing</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区, CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PBScaler')">[Bib]</span>, **[[PDF](_pages/paper/2024-PBScaler.pdf)]**
 
 - [MDLR: A Multi-Task Disentangled Learning Representations for unsupervised time series domain adaptation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003758). Y. Liu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MDLR')">[Bib]</span>, **[[PDF](_pages/paper/2024-MDLR.pdf)]**
