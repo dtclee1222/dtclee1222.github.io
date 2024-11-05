@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by Drones
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering（CCF A）
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by 《计算机科学》（CCF推荐中文期刊）
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by Information Processing & Management
