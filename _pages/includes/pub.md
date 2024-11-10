@@ -81,7 +81,7 @@
 
 ## 🌐 Knowledge Graph
 
-- [TGformer: A Graph Transformer Framework for Knowledge Graph Embedding](https://ieeexplore.ieee.org/document/10742302). F. Shi, **D Li\***, et al. **<font color=BlueViolet>IEEE Transactions on Knowledge and Data Engineering</font>**, **<font color=BlueViolet>2022</font>**. (SCI 2区, CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024TGformer')">[Bib]</span>, **[[PDF](_pages/paper/2024-TGformer.pdf)]**
+- [TGformer: A Graph Transformer Framework for Knowledge Graph Embedding](https://ieeexplore.ieee.org/document/10742302). F. Shi, **D Li\***, et al. **<font color=BlueViolet>IEEE Transactions on Knowledge and Data Engineering</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区, CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024TGformer')">[Bib]</span>, **[[PDF](_pages/paper/2024-TGformer.pdf)]**
 
 - [Multi-perspective knowledge graph completion with global and interaction features](https://linkinghub.elsevier.com/retrieve/pii/S0020025524003517). **D. Li**, et al. **<font color=BlueViolet>Information Sciences</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MGIF')">[Bib]</span>, **[[PDF](_pages/paper/2024-MGIF.pdf)]**
 
