@@ -3,6 +3,9 @@
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 	const references = {
+	"2024TGformer": "@ARTICLE{2024TGformer, \n " + "author={Shi, Fobo and Li, Duantengchuan and Wang, Xiaoguang and Li, Bing and Wu, Xindong},
+  journal={IEEE Transactions on Knowledge and Data Engineering},  \n " + "title={TGformer: A Graph Transformer Framework for Knowledge Graph Embedding},  \n " + "year={2024}, \n " + "volume={}, \n " + "number={}, \n " + "pages={1-16}, \n " + "doi={10.1109/TKDE.2024.3486747}, \n " + "}",
+	"2024MR4R": "@article{2024MR4R, \n " + "author = { 邓策渝 and  李段腾川 and  胡奕仁 and  王晓光 and  李志飞 }, \n " + "title = {融合词间句间多关系建模的评论推荐算法}, \n " + "journal = {计算机科学}, \n " + "pages = {1-16}, \n " + "issn = {1002-137X}, \n " + "}",
 	"2024HARO": "@Article{2024HARO,  \n " + "AUTHOR = {Liu, Bei and Cai, Yuefeng and Li, Duantengchuan and Lin, Ke and Xu, Guanghui},  \n " + "TITLE = {A Hybrid ARO Algorithm and Key Point Retention Strategy Trajectory Optimization for UAV Path Planning},  \n " + "JOURNAL = {Drones},  \n " + "VOLUME = {8},  \n " + "YEAR = {2024},  \n " + "NUMBER = {11},  \n " + "ARTICLE-NUMBER = {644},  \n " + "URL = {https://www.mdpi.com/2504-446X/8/11/644},  \n " + "ISSN = {2504-446X},  \n " + "DOI = {10.3390/drones8110644} \n " + "}",
 	"2024PromptSpace": "@inproceedings{2024PromptSpace,  \n " + "title = {Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models},  \n " + "author = {Shi, Fobo  and Qing, Peijun  and Yang, Dong  and Wang, Nan  and Lei, Youbo  and Lu, Haonan  and Lin, Xiaodong  and Li, Duantengchuan},  \n " + "booktitle = {Findings of the Association for Computational Linguistics: NAACL 2024},  \n " + "month = {jun},  \n " + "year = {2024},  \n " + "address = {Mexico City, Mexico}, \n " + "publisher = {Association for Computational Linguistics}, \n " + "url = {https://aclanthology.org/2024.findings-naacl.119}, \n " + "doi = {10.18653/v1/2024.findings-naacl.119}, \n " + "pages = {1836--1862}, \n " + "}",
  	 "2024HGNRec": "@article{2024HGNRec, \n " + "title = {Homogeneous graph neural networks for third-party library recommendation}, \n " + "journal = {Information Processing \\& Management}, \n " + "volume = {61}, \n " + "number = {6}, \n " + "pages = {103831}, \n " + "year = {2024}, \n " + "author = {Duantengchuan Li and Yuxuan Gao and Zhihao Wang and Hua Qiu and Pan Liu and Zhuoran Xiong and Zilong Zhang}, \n " + "doi = {https://doi.org/10.1016/j.ipm.2024.103831}, \n " + "}",
@@ -57,6 +60,9 @@
 **Joint first authors are indicated using #, and corresponding authors using \***.
 
 ## 🤖 Recommender System
+
+- [融合词间句间多关系建模的评论推荐算法](https://kns.cnki.net/kcms2/article/abstract?v=HjlF_Ii0mbkwhF52OO_UbLtr3x3xafdWfCYsAUyNuOfcqQIPsCJTdHrxe16vE0SaQ8SaoVcN2G-ftxJTAnrH4uWNc4PdrE5o6OWG67GJWp_tHWpSSvU4ZDT-UnudCJkufmx-gGTaQJvF3sOSBV7vJNqh9gwnYbuG0Sqy5s35cmAXhfChc6Ud0bThcMV6Z8XxN756KNBhUMdLt2i52qIXvQ==&uniplatform=NZKPT). C. Deng, **D. Li\***, et al. **<font color=BlueViolet>计算机科学</font>**, **<font color=BlueViolet>2024</font>**. (CCF推荐中文科技期刊，北大中文核心) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MR4R')">[Bib]</span>, **[[PDF](_pages/paper/2024-MR4R.pdf)]**
+
 - [Homogeneous graph neural networks for third-party library recommendation](https://www.sciencedirect.com/science/article/pii/S0306457324001900). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024HGNRec')">[Bib]</span>, **[[PDF](_pages/paper/2024-HGNRec.pdf)]**
 
 - [Joint inter-word and inter-sentence multi-relation modeling for summary-based recommender system](https://linkinghub.elsevier.com/retrieve/pii/S0306457323003680). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MRSR')">[Bib]</span>, **[[PDF](_pages/paper/2024-MRSR.pdf)]**
@@ -65,7 +71,7 @@
 
 - [BGCL: Bi-subgraph network based on graph contrastive learning for cold-start QoS prediction](https://linkinghub.elsevier.com/retrieve/pii/S0950705123000461). J. Zhu, B. Li, J. Wang, **D. Li**, et al. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF C) <span style="color:blue; cursor:pointer;" onclick="showAlert('2023BGCL')">[Bib]</span> , **[[PDF](_pages/paper/2023-BGCL.pdf)]**
 
-- [EDMF: Efficient Deep Matrix Factorization With Review Feature Learning for Industrial Recommender System](https://ieeexplore.ieee.org/document/9616457). H Liu, C Zheng, **D Li\***, et al. **<font color=BlueViolet>IEEE Transactions on Industrial Informatics</font>**, **<font color=BlueViolet>2022</font>**. (SCI 1区Top, CCF C) <span style="color:blue; cursor:pointer;" onclick="showAlert('2022EDMF')">[Bib]</span>, **[[PDF](_pages/paper/2022-EDMF.pdf)]**
+- [EDMF: Efficient Deep Matrix Factorization With Review Feature Learning for Industrial Recommender System](https://ieeexplore.ieee.org/document/9616457). H. Liu, C. Zheng, **D. Li\***, et al. **<font color=BlueViolet>IEEE Transactions on Industrial Informatics</font>**, **<font color=BlueViolet>2022</font>**. (SCI 1区Top, CCF C) <span style="color:blue; cursor:pointer;" onclick="showAlert('2022EDMF')">[Bib]</span>, **[[PDF](_pages/paper/2022-EDMF.pdf)]**
 
 - [Multi-perspective social recommendation method with graph representation learning](https://linkinghub.elsevier.com/retrieve/pii/S0925231221015368). H. Liu, C. Zheng, **D. Li**, et al. **<font color=BlueViolet>Neurocomputing</font>**, **<font color=BlueViolet>2022</font>**. (SCI 2区Top, CCF C) <span style="color:blue; cursor:pointer;" onclick="showAlert('2022MPSR')">[Bib]</span>, **[[PDF](_pages/paper/2022-MPSR.pdf)]**
 
@@ -75,6 +81,9 @@
 
 
 ## 🌐 Knowledge Graph
+
+- [TGformer: A Graph Transformer Framework for Knowledge Graph Embedding](https://ieeexplore.ieee.org/document/10742302). F. Shi, **D Li\***, et al. **<font color=BlueViolet>IEEE Transactions on Industrial Informatics</font>**, **<font color=BlueViolet>2022</font>**. (SCI 2区, CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024TGformer')">[Bib]</span>, **[[PDF](_pages/paper/2024-TGformer.pdf)]**
+
 - [Multi-perspective knowledge graph completion with global and interaction features](https://linkinghub.elsevier.com/retrieve/pii/S0020025524003517). **D. Li**, et al. **<font color=BlueViolet>Information Sciences</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MGIF')">[Bib]</span>, **[[PDF](_pages/paper/2024-MGIF.pdf)]**
 
 - [SDFormer: A shallow-to-deep feature interaction for knowledge graph embedding](https://linkinghub.elsevier.com/retrieve/pii/S095070512301002X). **D. Li**, et al. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF C) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024SDFormer')">[Bib]</span>, **[[PDF](_pages/paper/2024-SDFormer.pdf)]**
@@ -128,7 +137,7 @@
 
   
 ## 📠 Others
-A Hybrid ARO Algorithm and Key Point Retention Strategy Trajectory Optimization for UAV Path Planning. B. Liu, Y. Cai\*, **D. Li\***, et al. **<font color=BlueViolet>Drones</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024HARO')">[Bib]</span>, **[[PDF](_pages/paper/2024-HARO.pdf)]**
+- [A Hybrid ARO Algorithm and Key Point Retention Strategy Trajectory Optimization for UAV Path Planning](https://www.mdpi.com/2504-446X/8/11/644). B. Liu, Y. Cai\*, **D. Li\***, et al. **<font color=BlueViolet>Drones</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024HARO')">[Bib]</span>, **[[PDF](_pages/paper/2024-HARO.pdf)]**
 
 
 - [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. **<font color=BlueViolet>IEEE Transactions on Services Computing</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区, CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PBScaler')">[Bib]</span>, **[[PDF](_pages/paper/2024-PBScaler.pdf)]**
