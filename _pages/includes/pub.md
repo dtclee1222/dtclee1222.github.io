@@ -3,6 +3,7 @@
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 	const references = {
+	"2024HARO": "@Article{2024HARO,  \n " + "AUTHOR = {Liu, Bei and Cai, Yuefeng and Li, Duantengchuan and Lin, Ke and Xu, Guanghui},  \n " + "TITLE = {A Hybrid ARO Algorithm and Key Point Retention Strategy Trajectory Optimization for UAV Path Planning},  \n " + "JOURNAL = {Drones},  \n " + "VOLUME = {8},  \n " + "YEAR = {2024},  \n " + "NUMBER = {11},  \n " + "ARTICLE-NUMBER = {644},  \n " + "URL = {https://www.mdpi.com/2504-446X/8/11/644},  \n " + "ISSN = {2504-446X},  \n " + "DOI = {10.3390/drones8110644} \n " + "}",
 	"2024PromptSpace": "@inproceedings{2024PromptSpace,  \n " + "title = {Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models},  \n " + "author = {Shi, Fobo  and Qing, Peijun  and Yang, Dong  and Wang, Nan  and Lei, Youbo  and Lu, Haonan  and Lin, Xiaodong  and Li, Duantengchuan},  \n " + "booktitle = {Findings of the Association for Computational Linguistics: NAACL 2024},  \n " + "month = {jun},  \n " + "year = {2024},  \n " + "address = {Mexico City, Mexico}, \n " + "publisher = {Association for Computational Linguistics}, \n " + "url = {https://aclanthology.org/2024.findings-naacl.119}, \n " + "doi = {10.18653/v1/2024.findings-naacl.119}, \n " + "pages = {1836--1862}, \n " + "}",
  	 "2024HGNRec": "@article{2024HGNRec, \n " + "title = {Homogeneous graph neural networks for third-party library recommendation}, \n " + "journal = {Information Processing \\& Management}, \n " + "volume = {61}, \n " + "number = {6}, \n " + "pages = {103831}, \n " + "year = {2024}, \n " + "author = {Duantengchuan Li and Yuxuan Gao and Zhihao Wang and Hua Qiu and Pan Liu and Zhuoran Xiong and Zilong Zhang}, \n " + "doi = {https://doi.org/10.1016/j.ipm.2024.103831}, \n " + "}",
 	"2024RLSPD": "@InProceedings{2024RLSPD, \n " + "author={Cai, Rujian and Zheng, Chao and Wang, Jian and Li, Duantengchuan and Wang, Chong and Li, Bing},  \n " + "title={Reinforcement Learning-Based Streaming Process Discovery Under Concept Drift},  \n " + "booktitle={Advanced Information Systems Engineering},  \n " + "year={2024},  \n " + "pages={55--70}, \n " + "}",
@@ -127,6 +128,8 @@
 
   
 ## 📠 Others
+A Hybrid ARO Algorithm and Key Point Retention Strategy Trajectory Optimization for UAV Path Planning. B. Liu, Y. Cai\*, **D. Li\***, et al. **<font color=BlueViolet>Drones</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024HARO')">[Bib]</span>, **[[PDF](_pages/paper/2024-HARO.pdf)]**
+
 
 - [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. **<font color=BlueViolet>IEEE Transactions on Services Computing</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区, CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PBScaler')">[Bib]</span>, **[[PDF](_pages/paper/2024-PBScaler.pdf)]**
 
