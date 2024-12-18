@@ -1,4 +1,7 @@
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Software Engineering and Methodology
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by International Journal of Web Information Systems
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by Drones
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering（CCF A）
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by 《计算机科学》（CCF推荐中文期刊）
