@@ -61,7 +61,7 @@
 
 ## 🤖 Recommender System
 
-- [DDASR: Deep Diverse API Sequence Recommendation](https://dl.acm.org/doi/abs/10.1145/3712188). S. Nan, J. Wang, N. Zhang, **D Li\***, et al. **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DDASR')">[Bib]</span>, **[[PDF](_pages/paper/2025-DDASR.pdf)]**
+- [DDASR: Deep Diverse API Sequence Recommendation](https://dl.acm.org/doi/abs/10.1145/3712188). S. Nan, J. Wang, N. Zhang, **D Li**, et al. **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DDASR')">[Bib]</span>, **[[PDF](_pages/paper/2025-DDASR.pdf)]**
 
 - [融合词间句间多关系建模的评论推荐算法](https://kns.cnki.net/kcms2/article/abstract?v=HjlF_Ii0mbkwhF52OO_UbLtr3x3xafdWfCYsAUyNuOfcqQIPsCJTdHrxe16vE0SaQ8SaoVcN2G-ftxJTAnrH4uWNc4PdrE5o6OWG67GJWp_tHWpSSvU4ZDT-UnudCJkufmx-gGTaQJvF3sOSBV7vJNqh9gwnYbuG0Sqy5s35cmAXhfChc6Ud0bThcMV6Z8XxN756KNBhUMdLt2i52qIXvQ==&uniplatform=NZKPT). C. Deng, **D. Li\***, et al. **<font color=BlueViolet>计算机科学</font>**, **<font color=BlueViolet>2024</font>**. (CCF推荐中文科技期刊，北大中文核心) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MR4R')">[Bib]</span>, **[[PDF](_pages/paper/2024-MR4R.pdf)]**
 
