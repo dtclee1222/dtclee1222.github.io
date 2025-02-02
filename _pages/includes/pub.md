@@ -3,6 +3,7 @@
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 	const references = {
+	"2025DDASR": "@article{2025DDASR, \n " + "author = {Nan, Siyu and Wang, Jian and Zhang, Neng and Li, Duantengchuan and Li, Bing}, \n " + "title = {DDASR: Deep Diverse API Sequence Recommendation}, \n " + "year = {2025}, \n " + "doi = {10.1145/3712188}, \n " + "journal = {ACM Trans. Softw. Eng. Methodol.}, \n " + "}",
 	"2025TGformer": "@ARTICLE{2024TGformer, \n " + "author={Shi, Fobo and Li, Duantengchuan and Wang, Xiaoguang and Li, Bing and Wu, Xindong}, \n " + "journal={IEEE Transactions on Knowledge and Data Engineering},  \n " + "title={TGformer: A Graph Transformer Framework for Knowledge Graph Embedding},  \n " + "year={2025}, \n " + "volume={37}, \n " + "number={1}, \n " + "pages={526-541}, \n " + "doi={10.1109/TKDE.2024.3486747}, \n " + "}",
 	"2024MR4R": "@article{2024MR4R, \n " + "author = { 邓策渝 and  李段腾川 and  胡奕仁 and  王晓光 and  李志飞 }, \n " + "title = {融合词间句间多关系建模的评论推荐算法}, \n " + "journal = {计算机科学}, \n " + "pages = {1-16}, \n " + "issn = {1002-137X}, \n " + "}",
 	"2024HARO": "@Article{2024HARO,  \n " + "AUTHOR = {Liu, Bei and Cai, Yuefeng and Li, Duantengchuan and Lin, Ke and Xu, Guanghui},  \n " + "TITLE = {A Hybrid ARO Algorithm and Key Point Retention Strategy Trajectory Optimization for UAV Path Planning},  \n " + "JOURNAL = {Drones},  \n " + "VOLUME = {8},  \n " + "YEAR = {2024},  \n " + "NUMBER = {11},  \n " + "ARTICLE-NUMBER = {644},  \n " + "URL = {https://www.mdpi.com/2504-446X/8/11/644},  \n " + "ISSN = {2504-446X},  \n " + "DOI = {10.3390/drones8110644} \n " + "}",
@@ -59,6 +60,8 @@
 **Joint first authors are indicated using #, and corresponding authors using \***.
 
 ## 🤖 Recommender System
+
+- [DDASR: Deep Diverse API Sequence Recommendation](https://dl.acm.org/doi/abs/10.1145/3712188). S. Nan, J. Wang, N. Zhang, **D Li\***, et al. **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DDASR')">[Bib]</span>, **[[PDF](_pages/paper/2025-DDASR.pdf)]**
 
 - [融合词间句间多关系建模的评论推荐算法](https://kns.cnki.net/kcms2/article/abstract?v=HjlF_Ii0mbkwhF52OO_UbLtr3x3xafdWfCYsAUyNuOfcqQIPsCJTdHrxe16vE0SaQ8SaoVcN2G-ftxJTAnrH4uWNc4PdrE5o6OWG67GJWp_tHWpSSvU4ZDT-UnudCJkufmx-gGTaQJvF3sOSBV7vJNqh9gwnYbuG0Sqy5s35cmAXhfChc6Ud0bThcMV6Z8XxN756KNBhUMdLt2i52qIXvQ==&uniplatform=NZKPT). C. Deng, **D. Li\***, et al. **<font color=BlueViolet>计算机科学</font>**, **<font color=BlueViolet>2024</font>**. (CCF推荐中文科技期刊，北大中文核心) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MR4R')">[Bib]</span>, **[[PDF](_pages/paper/2024-MR4R.pdf)]**
 
