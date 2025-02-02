@@ -35,7 +35,7 @@ redirect_from:
 <!-- {% include_relative includes/join.md %} -->
 
 
-# 🗺️ Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5n3vikrc6v5&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+%# 🗺️ Visitor Map
+%<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5n3vikrc6v5&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" %async="async"></script>
 
 
