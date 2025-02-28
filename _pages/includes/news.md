@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Software Engineering and Methodology（CCF A）
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI（CCF A）
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by International Journal of Web Information Systems
