@@ -59,6 +59,14 @@
 
 **Joint first authors are indicated using #, and corresponding authors using \***.
 
+
+## 📚 Large Language Model
+
+- [Are LLMs good at structured outputs? A benchmark for evaluating structured output capabilities in LLMs](https://www.sciencedirect.com/science/article/pii/S0306457324001687). Y. Liu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024SoEval')">[Bib]</span>, **[[PDF](_pages/paper/2024-SoEval.pdf)]**
+
+- [Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models](https://aclanthology.org/2024.findings-naacl.119/#). F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. (CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PromptSpace')">[Bib]</span>, **[[PDF](_pages/paper/2024-PromptSpace.pdf)]**
+
+
 ## 🤖 Recommender System
 
 - [DDASR: Deep Diverse API Sequence Recommendation](https://dl.acm.org/doi/abs/10.1145/3712188). S. Nan, J. Wang, N. Zhang, **D Li**, et al. **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DDASR')">[Bib]</span>, **[[PDF](_pages/paper/2025-DDASR.pdf)]**
@@ -93,19 +101,6 @@
 - [Knowledge graph representation learning with simplifying hierarchical feature propagation](https://linkinghub.elsevier.com/retrieve/pii/S0306457323000857). Z. Li, Q. Zhang, F. Zhu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2023SHGNet')">[Bib]</span>, **[[PDF](_pages/paper/2023-SHGNet.pdf)]**
 
 - [Knowledge graph embedding model with attention-based high-low level features interaction convolutional network](https://linkinghub.elsevier.com/retrieve/pii/S0306457323000870). J. Wang, Q. Zhang, F. Shi, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2023ConvHLE')">[Bib]</span>, **[[PDF](_pages/paper/2023-ConvHLE.pdf)]**
-
-
-## 📚 Large Language Model
-
-- [Are LLMs good at structured outputs? A benchmark for evaluating structured output capabilities in LLMs](https://www.sciencedirect.com/science/article/pii/S0306457324001687). Y. Liu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024SoEval')">[Bib]</span>, **[[PDF](_pages/paper/2024-SoEval.pdf)]**
-
-- [Prompt Space Optimizing Few-shot Reasoning Success with Large Language Models](https://aclanthology.org/2024.findings-naacl.119/#). F. Shi, P. Qing, D. Yang, N. Wang, Y. Lei, H. Lu, X. Lin, **D. Li**. **<font color=BlueViolet>NAACL</font>** Findings **<font color=BlueViolet>2024</font>**. (CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PromptSpace')">[Bib]</span>, **[[PDF](_pages/paper/2024-PromptSpace.pdf)]**
-
-
-
-
-
-
 
   
 ## 📷 Computer Vision
