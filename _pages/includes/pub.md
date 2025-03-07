@@ -105,7 +105,7 @@
   
 ## 📷 Computer Vision
 
-- [ADGaze: Anisotropic Gaussian Label Distribution Learning for fine-grained gaze estimation](https://www.sciencedirect.com/science/article/pii/S0031320325001967). **D. Li\***, et al. **<font color=BlueViolet>Pattern Recognition</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025ADGaze')">[Bib]</span>, **[[PDF](_pages/paper/205-ADGaze.pdf)]**
+- [ADGaze: Anisotropic Gaussian Label Distribution Learning for fine-grained gaze estimation](https://www.sciencedirect.com/science/article/pii/S0031320325001967). **D. Li\***, et al. **<font color=BlueViolet>Pattern Recognition</font>**, **<font color=BlueViolet>2025</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025ADGaze')">[Bib]</span>, **[[PDF](_pages/paper/205-ADGaze.pdf)]**
 
 - [DADL: Double Asymmetric Distribution Learning for head pose estimation in wisdom museum](https://linkinghub.elsevier.com/retrieve/pii/S1319157823004238). W. Zhao, S. Wang, X. Wang, **D. Li\***, et al. **<font color=BlueViolet>Journal of King Saud University-Computer and Information Sciences</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024DADL')">[Bib]</span>, **[[PDF](_pages/paper/2024-DADL.pdf)]**
 
