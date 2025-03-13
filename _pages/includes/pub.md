@@ -3,6 +3,7 @@
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 	const references = {
+	"2025ADGaze": "@article{2025ADGaze, \n " + "title = {ADGaze: Anisotropic Gaussian Label Distribution Learning for fine-grained gaze estimation}, \n " + "journal = {Pattern Recognition}, \n " + "volume = {164}, \n " + "pages = {111536}, \n " + "year = {2025}, \n " + "doi = {https://doi.org/10.1016/j.patcog.2025.111536}, \n " + "author = {Duantengchuan Li and Shutong Wang and Wanli Zhao and Lingyun Kang and Liangshan Dong and Jiazhang Wang and Xiaoguang Wang}, \n " + "}",
 	"2025DDASR": "@article{2025DDASR, \n " + "author = {Nan, Siyu and Wang, Jian and Zhang, Neng and Li, Duantengchuan and Li, Bing}, \n " + "title = {DDASR: Deep Diverse API Sequence Recommendation}, \n " + "year = {2025}, \n " + "doi = {10.1145/3712188}, \n " + "journal = {ACM Trans. Softw. Eng. Methodol.}, \n " + "}",
 	"2025TGformer": "@ARTICLE{2025TGformer, \n " + "author={Shi, Fobo and Li, Duantengchuan and Wang, Xiaoguang and Li, Bing and Wu, Xindong}, \n " + "journal={IEEE Transactions on Knowledge and Data Engineering},  \n " + "title={TGformer: A Graph Transformer Framework for Knowledge Graph Embedding},  \n " + "year={2025}, \n " + "volume={37}, \n " + "number={1}, \n " + "pages={526-541}, \n " + "doi={10.1109/TKDE.2024.3486747}, \n " + "}",
 	"2024MR4R": "@article{2024MR4R, \n " + "author = { 邓策渝 and  李段腾川 and  胡奕仁 and  王晓光 and  李志飞 }, \n " + "title = {融合词间句间多关系建模的评论推荐算法}, \n " + "journal = {计算机科学}, \n " + "pages = {1-16}, \n " + "issn = {1002-137X}, \n " + "}",
@@ -105,7 +106,7 @@
   
 ## 📷 Computer Vision
 
-- [ADGaze: Anisotropic Gaussian Label Distribution Learning for fine-grained gaze estimation](https://www.sciencedirect.com/science/article/pii/S0031320325001967). **D. Li\***, et al. **<font color=BlueViolet>Pattern Recognition</font>**, **<font color=BlueViolet>2025</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025ADGaze')">[Bib]</span>, **[[PDF](_pages/paper/205-ADGaze.pdf)]**
+- [ADGaze: Anisotropic Gaussian Label Distribution Learning for fine-grained gaze estimation](https://www.sciencedirect.com/science/article/pii/S0031320325001967). **D. Li\***, et al. **<font color=BlueViolet>Pattern Recognition</font>**, **<font color=BlueViolet>2025</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025ADGaze')">[Bib]</span>, **[[PDF](_pages/paper/2025-ADGaze.pdf)]**
 
 - [DADL: Double Asymmetric Distribution Learning for head pose estimation in wisdom museum](https://linkinghub.elsevier.com/retrieve/pii/S1319157823004238). W. Zhao, S. Wang, X. Wang, **D. Li\***, et al. **<font color=BlueViolet>Journal of King Saud University-Computer and Information Sciences</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024DADL')">[Bib]</span>, **[[PDF](_pages/paper/2024-DADL.pdf)]**
 
