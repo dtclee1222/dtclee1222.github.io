@@ -107,7 +107,7 @@
   
 ## 📷 Computer Vision
 
-- [EANet: Integrate Edge Features and Attention Mechanisms Multi-Scale Networks for Vessel Segmentation in Retinal Images]([https://www.sciencedirect.com/science/article/pii/S0031320325001967](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.70056). J. Zhang, Y. Tan, **D. Li\***, et al. **<font color=BlueViolet>Pattern Recognition</font>**, **<font color=BlueViolet>2025</font>**. (SCI, CCF C) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025EANet')">[Bib]</span>, **[[PDF](_pages/paper/2025-EANet.pdf)]**
+- [EANet: Integrate Edge Features and Attention Mechanisms Multi-Scale Networks for Vessel Segmentation in Retinal Images](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.70056). J. Zhang, Y. Tan, **D. Li\***, et al. **<font color=BlueViolet>IET Image Processing</font>**, **<font color=BlueViolet>2025</font>**. (SCI, CCF C) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025EANet')">[Bib]</span>, **[[PDF](_pages/paper/2025-EANet.pdf)]**
 
 
 - [ADGaze: Anisotropic Gaussian Label Distribution Learning for fine-grained gaze estimation](https://www.sciencedirect.com/science/article/pii/S0031320325001967). **D. Li\***, et al. **<font color=BlueViolet>Pattern Recognition</font>**, **<font color=BlueViolet>2025</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025ADGaze')">[Bib]</span>, **[[PDF](_pages/paper/2025-ADGaze.pdf)]**
