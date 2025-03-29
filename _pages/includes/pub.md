@@ -3,6 +3,7 @@
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 	const references = {
+	"2025EANet": "@article{2025EANet, \n " + "author = {Zhang, Jiangyi and Tan, Yuxin and Li, Duantengchuan and Xu, Guanghui and Zhou, Fuling}, \n " + "title = {EANet: Integrate Edge Features and Attention Mechanisms Multi-Scale Networks for Vessel Segmentation in Retinal Images}, \n " + "journal = {IET Image Processing}, \n " + "volume = {19}, \n " + "number = {1}, \n " + "pages = {e70056}, \n " + "doi = {https://doi.org/10.1049/ipr2.70056}, \n " + "url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.70056}, \n " + "year = {2025} \n " + "}",
 	"2025ADGaze": "@article{2025ADGaze, \n " + "title = {ADGaze: Anisotropic Gaussian Label Distribution Learning for fine-grained gaze estimation}, \n " + "journal = {Pattern Recognition}, \n " + "volume = {164}, \n " + "pages = {111536}, \n " + "year = {2025}, \n " + "doi = {https://doi.org/10.1016/j.patcog.2025.111536}, \n " + "author = {Duantengchuan Li and Shutong Wang and Wanli Zhao and Lingyun Kang and Liangshan Dong and Jiazhang Wang and Xiaoguang Wang}, \n " + "}",
 	"2025DDASR": "@article{2025DDASR, \n " + "author = {Nan, Siyu and Wang, Jian and Zhang, Neng and Li, Duantengchuan and Li, Bing}, \n " + "title = {DDASR: Deep Diverse API Sequence Recommendation}, \n " + "year = {2025}, \n " + "doi = {10.1145/3712188}, \n " + "journal = {ACM Trans. Softw. Eng. Methodol.}, \n " + "}",
 	"2025TGformer": "@ARTICLE{2025TGformer, \n " + "author={Shi, Fobo and Li, Duantengchuan and Wang, Xiaoguang and Li, Bing and Wu, Xindong}, \n " + "journal={IEEE Transactions on Knowledge and Data Engineering},  \n " + "title={TGformer: A Graph Transformer Framework for Knowledge Graph Embedding},  \n " + "year={2025}, \n " + "volume={37}, \n " + "number={1}, \n " + "pages={526-541}, \n " + "doi={10.1109/TKDE.2024.3486747}, \n " + "}",
@@ -105,6 +106,9 @@
 
   
 ## 📷 Computer Vision
+
+- [EANet: Integrate Edge Features and Attention Mechanisms Multi-Scale Networks for Vessel Segmentation in Retinal Images]([https://www.sciencedirect.com/science/article/pii/S0031320325001967](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.70056). J. Zhang, Y. Tan, **D. Li\***, et al. **<font color=BlueViolet>Pattern Recognition</font>**, **<font color=BlueViolet>2025</font>**. (SCI, CCF C) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025EANet')">[Bib]</span>, **[[PDF](_pages/paper/2025-EANet.pdf)]**
+
 
 - [ADGaze: Anisotropic Gaussian Label Distribution Learning for fine-grained gaze estimation](https://www.sciencedirect.com/science/article/pii/S0031320325001967). **D. Li\***, et al. **<font color=BlueViolet>Pattern Recognition</font>**, **<font color=BlueViolet>2025</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025ADGaze')">[Bib]</span>, **[[PDF](_pages/paper/2025-ADGaze.pdf)]**
 
