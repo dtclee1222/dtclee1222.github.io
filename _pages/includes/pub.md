@@ -3,6 +3,7 @@
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 	const references = {
+	"2025FREIB": "@article{2025FREIB, \n " + "title={Federated Recommendation with Explicitly Encoding Item Bias}, \n " + "volume={39}, \n " + "DOI={10.1609/aaai.v39i12.33395}, \n " + "number={12}, \n " + "journal={Proceedings of the AAAI Conference on Artificial Intelligence}, \n " + "author={Wang, Zhihao and Bai, He and Huang, Wenke and Li, Duantengchuan and Wang, Jian and Li, Bing}, \n " + "year={2025}, \n " + " month={Apr.}, \n " + "pages={12792-12800} \n " + "}",
 	"2025EANet": "@article{2025EANet, \n " + "author = {Zhang, Jiangyi and Tan, Yuxin and Li, Duantengchuan and Xu, Guanghui and Zhou, Fuling}, \n " + "title = {EANet: Integrate Edge Features and Attention Mechanisms Multi-Scale Networks for Vessel Segmentation in Retinal Images}, \n " + "journal = {IET Image Processing}, \n " + "volume = {19}, \n " + "number = {1}, \n " + "pages = {e70056}, \n " + "doi = {https://doi.org/10.1049/ipr2.70056}, \n " + "url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.70056}, \n " + "year = {2025} \n " + "}",
 	"2025ADGaze": "@article{2025ADGaze, \n " + "title = {ADGaze: Anisotropic Gaussian Label Distribution Learning for fine-grained gaze estimation}, \n " + "journal = {Pattern Recognition}, \n " + "volume = {164}, \n " + "pages = {111536}, \n " + "year = {2025}, \n " + "doi = {https://doi.org/10.1016/j.patcog.2025.111536}, \n " + "author = {Duantengchuan Li and Shutong Wang and Wanli Zhao and Lingyun Kang and Liangshan Dong and Jiazhang Wang and Xiaoguang Wang}, \n " + "}",
 	"2025DDASR": "@article{2025DDASR, \n " + "author = {Nan, Siyu and Wang, Jian and Zhang, Neng and Li, Duantengchuan and Li, Bing}, \n " + "title = {DDASR: Deep Diverse API Sequence Recommendation}, \n " + "year = {2025}, \n " + "doi = {10.1145/3712188}, \n " + "journal = {ACM Trans. Softw. Eng. Methodol.}, \n " + "}",
@@ -70,6 +71,10 @@
 
 
 ## 🤖 Recommender System
+
+
+- [Federated Recommendation with Explicitly Encoding Item Bias](https://ojs.aaai.org/index.php/AAAI/article/view/33395). Z. Wang, H. Bai, W. Huang, **D Li**, J. Wang, B. Li. **<font color=Proceedings of the AAAI Conference on Artificial Intelligence</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025FREIB')">[Bib]</span>, **[[PDF](_pages/paper/2025-FREIB.pdf)]**
+
 
 - [DDASR: Deep Diverse API Sequence Recommendation](https://dl.acm.org/doi/abs/10.1145/3712188). S. Nan, J. Wang, N. Zhang, **D Li**, et al. **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DDASR')">[Bib]</span>, **[[PDF](_pages/paper/2025-DDASR.pdf)]**
 
