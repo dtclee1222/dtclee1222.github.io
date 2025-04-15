@@ -73,7 +73,7 @@
 ## 🤖 Recommender System
 
 
-- [Federated Recommendation with Explicitly Encoding Item Bias](https://ojs.aaai.org/index.php/AAAI/article/view/33395). Z. Wang, H. Bai, W. Huang, **D Li**, J. Wang, B. Li. **<font color=Proceedings of the AAAI Conference on Artificial Intelligence</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025FREIB')">[Bib]</span>, **[[PDF](_pages/paper/2025-FREIB.pdf)]**
+- [Federated Recommendation with Explicitly Encoding Item Bias](https://ojs.aaai.org/index.php/AAAI/article/view/33395). Z. Wang, H. Bai, W. Huang, **D Li**, J. Wang, B. Li. **<font color=BlueViolet>Proceedings of the AAAI Conference on Artificial Intelligence</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025FREIB')">[Bib]</span>, **[[PDF](_pages/paper/2025-FREIB.pdf)]**
 
 
 - [DDASR: Deep Diverse API Sequence Recommendation](https://dl.acm.org/doi/abs/10.1145/3712188). S. Nan, J. Wang, N. Zhang, **D Li**, et al. **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DDASR')">[Bib]</span>, **[[PDF](_pages/paper/2025-DDASR.pdf)]**
