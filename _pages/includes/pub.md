@@ -72,6 +72,9 @@
 
 ## 🤖 Recommender System
 
+- [Recommender system based on noise enhancement and multi-view graph contrastive learning](https://www.sciencedirect.com/science/article/pii/S1568494625005319?via%3Dihub). **D Li**, J. Lu, et al. **<font color=BlueViolet>Applied Soft Computing</font>**, **<font color=BlueViolet>2025</font>**. <span style="color:blue; cursor:pointer;" onclick="showAlert('XXXX')">[Bib]</span>, **[[PDF](_pages/paper/XXXX.pdf)]**
+
+- [MSCA: a multi-scale context-aware recommender system leveraging reviews and user interactions](https://www.emerald.com/insight/content/doi/10.1108/ijwis-10-2024-0311/full/html). Z. Jin, J. Wang, **D Li**, M. Li, B. Li. **<font color=BlueViolet>International Journal of Web Information Systems</font>**, **<font color=BlueViolet>2025</font>**.  <span style="color:blue; cursor:pointer;" onclick="showAlert('XXXX')">[Bib]</span>, **[[PDF](_pages/paper/XXXX.pdf)]**
 
 - [Federated Recommendation with Explicitly Encoding Item Bias](https://ojs.aaai.org/index.php/AAAI/article/view/33395). Z. Wang, H. Bai, W. Huang, **D Li**, J. Wang, B. Li. **<font color=BlueViolet>Proceedings of the AAAI Conference on Artificial Intelligence</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025FREIB')">[Bib]</span>, **[[PDF](_pages/paper/2025-FREIB.pdf)]**
 
