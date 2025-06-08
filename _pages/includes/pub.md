@@ -83,6 +83,8 @@
 
 - [DDASR: Deep Diverse API Sequence Recommendation](https://dl.acm.org/doi/abs/10.1145/3712188). S. Nan, J. Wang, N. Zhang, **D Li**, et al. **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. (CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DDASR')">[Bib]</span>, **[[PDF](_pages/paper/2025-DDASR.pdf)]**
 
+- [MDGRec: 基于多元关系融合的移动应用第三方库推荐方法](https://kns.cnki.net/kcms2/article/abstract?v=79O6ZE_Rn2q-XMaUrM_7PNyiNZw4kfKroJSnhG1LpNBv2gz77CtK5FFO9fHFSVQ-f__WGHq5NYvHJ1s3jQwQ2yDgN3YR0ivyBo9b-xUixnvJ5albsl1epxoVPy0hVyVZIVLHozHg_CJhKlMgj_fqOEFLjmzgnmMSINy-6yrKnZSQYjTgh29u7A==&uniplatform=NZKPT&language=CHS). Y. Chen, J. Wang, **D. Li**, et al. **<font color=BlueViolet>计算机科学</font>**, **<font color=BlueViolet>2025</font>**. (CCF推荐中文科技期刊，北大中文核心) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025MDGRec')">[Bib]</span>, **[[PDF](_pages/paper/2025-MDGRec.pdf)]**
+
 - [融合词间句间多关系建模的评论推荐算法](https://www.jsjkx.com/CN/10.11896/jsjkx.240700053). C. Deng, **D. Li\***, et al. **<font color=BlueViolet>计算机科学</font>**, **<font color=BlueViolet>2025</font>**. (CCF推荐中文科技期刊，北大中文核心) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025MR4R')">[Bib]</span>, **[[PDF](_pages/paper/2025-MR4R.pdf)]**
 
 - [Homogeneous graph neural networks for third-party library recommendation](https://www.sciencedirect.com/science/article/pii/S0306457324001900). **D. Li**, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024HGNRec')">[Bib]</span>, **[[PDF](_pages/paper/2024-HGNRec.pdf)]**
