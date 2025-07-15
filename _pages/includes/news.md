@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by IET Image Processing
 - *2025.03*: &nbsp;🎉🎉 Dr. Lee serves as Guest Editor of the journal Electronics (IF: 2.6)
