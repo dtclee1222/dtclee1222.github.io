@@ -1,5 +1,6 @@
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing
+- *2025.06*: &nbsp;🎉🎉 Dr. Lee is serves as the Editorial Board Member of Information Processing & Management (IF: 6.9)
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by IET Image Processing
 - *2025.03*: &nbsp;🎉🎉 Dr. Lee serves as Guest Editor of the journal Electronics (IF: 2.6)
@@ -17,7 +18,3 @@
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Services Computing
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by Information Sciences
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by Information Processing & Management
-- *2023.12*: &nbsp;🎉🎉 Two papers are accepted by Information Processing & Management
-- *2023.11*: &nbsp;🎉🎉 One paper is accepted by Knowledge-Based Systems
-- *2023.05*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Intelligent Vehicles
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Neural Networks and Learning Systems
