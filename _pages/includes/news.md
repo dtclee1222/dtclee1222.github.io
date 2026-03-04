@@ -1,4 +1,9 @@
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by 《计算机科学》（CCF推荐中文期刊）
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by Biomedical Signal Processing and Control
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by Information Processing & Management
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by Knowledge-Based Systems
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing
 - *2025.06*: &nbsp;🎉🎉 Dr. Lee is serves as the Editorial Board Member of Information Processing & Management (IF: 6.9)
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by Applied Soft Computing
@@ -7,14 +12,7 @@
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by Pattern Recognition
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by ACM Transactions on Software Engineering and Methodology（CCF A）
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI（CCF A）
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by International Journal of Web Information Systems
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by Drones
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Knowledge and Data Engineering（CCF A）
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by 《计算机科学》（CCF推荐中文期刊）
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by Information Processing & Management
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by Information Processing & Management
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by ICWS 2024 (CCF B)
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted by CAiSE 2024 (CCF B)
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by IEEE Transactions on Services Computing
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by Information Sciences
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by Information Processing & Management
