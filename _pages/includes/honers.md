@@ -5,5 +5,5 @@
 <!-- *2016.11* Network Engineer (intermediate level), Qualification Certification of Computer and Software Technology Proficiency -->
 <!-- *2015.12* Provincial Government Scholarship -->
 <!-- *2015.06* Provincial Merit Student -->
-- National Natural Science Foundation of China (No. 82500221)
+- National Natural Science Foundation of China (No. 62507035)
 - Hubei Provincial Natural Science Foundation of China
