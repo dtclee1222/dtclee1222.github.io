@@ -3,6 +3,11 @@
     <title>点击弹出文本框</title>
     <script type="text/javascript">
 	const references = {
+	"2026MDCRec": "@article{2026MDCRec, \n " + "title = {Integrating deep clustering and multi-view graph neural networks for recommender system}, \n " + "journal = {Knowledge-Based Systems}, \n " + "volume = {338}, \n " + "pages = {115449}, \n " + "year = {2026}, \n " + "doi = {https://doi.org/10.1016/j.knosys.2026.115449}, \n " + "author = {Jiaxuan Song and Yue Li and Duantengchuan Li and Xiaoguang Wang and Rui Zhang and Hui Zhang and Jinsong Chen}, \n " + "}",
+	"2026FKGRec": "@article{2026FKGRec, \n " + "title = {Learning path recommendation based on forgetting factors and knowledge graph awareness}, \n " + "journal = {Information Processing \\& Management}, \n " + "volume = {63}, \n " + "number = {2, Part A}, \n " + "pages = {104393}, \n " + "year = {2026}, \n " + "doi = {https://doi.org/10.1016/j.ipm.2025.104393}, \n " + "author = {Yunxia Fan and Mingwen Tong and Duantengchuan Li}, \n " + "}",
+	"2026QHCN": "@article{2026QHCN, \n " + "title = {Knowledge-based visual question classification using quaternion hypergraph consistent network}, \n " + "journal = {Information Processing \\& Management}, \n " + "volume = {63}, \n " + "number = {4}, \n " + "pages = {104591}, \n " + "year = {2026}, \n " + "doi = {https://doi.org/10.1016/j.ipm.2025.104591}, \n " + "author = {Jing Wang and Duantengchuan Li and Xu Du and Hao Li and Zhuang Hu}, \n " + "keywords = {Intelligent education, Multimodal fusion, Quaternion hypergraph, Explicit-implicit features, Knowledge consistency}, \n " + "}",
+	"2026NMTSs": "@article{2026NMTSs, \n " + "title = {Travel time resilience of national multimodal transport systems under extreme events: A passenger-oriented framework}, \n " + "journal = {Reliability Engineering \\& System Safety}, \n " + "volume = {273}, \n " + "pages = {112256}, \n " + "year = {2026}, \n " + "doi = {https://doi.org/10.1016/j.ress.2026.112256}, \n " + "author = {Hui Zhang and Min Ouyang and Min Xu and Wenjing Sun and Liu Hong and Duantengchuan Li}, \n " + "}",
+	"2025DAPlanner": "@article{2025DAPlanner, \n " + "title = {DAPlanner: Dual-agent framework with multi-modal large language model for autonomous driving motion planning}, \n " + "journal = {Applied Soft Computing}, \n " + "volume = {183}, \n " + "pages = {113625}, \n " + "year = {2025}, \n " + "doi = {https://doi.org/10.1016/j.asoc.2025.113625}, \n " + "author = {Pin Zhang and Ke Lin and Duantengchuan Li and Zixun Fu and Yuefeng Cai and Bing Li and Huan Yu and Ming Li},  \n " + "}",
 	"2025MNCL": "@article{2025MNCL, \n " + "title = {Recommender system based on noise enhancement and multi-view graph contrastive learning}, \n " + "journal = {Applied Soft Computing}, \n " + "volume = {177},  \n " + "pages = {113220}, \n " + "year = {2025}, \n " + "doi = {https://doi.org/10.1016/j.asoc.2025.113220}, \n " + "author = {Duantengchuan Li and Jiayao Lu and Zhihao Wang and Jingxiong Wang and Xiaoguang Wang and Fobo Shi and Yu Liu}, \n " + "}",
 	"2025MSCA": "@article{2025MSCA, \n " + "title={MSCA: a multi-scale context-aware recommender system leveraging reviews and user interactions}, \n " + "volume={21}, \n " + "DOI={https://doi.org/10.1108/IJWIS-10-2024-0311}, \n " + "number={21}, \n " + "journal={International Journal of Web Information Systems}, \n " + "author={Jin, Zhangyu and Wang, Jian and Li, Duantengchuan and Li, Maodong and Li, Bing}, \n " + "year={2025}, \n " + "pages={205-229} \n " + "}",
 	"2025FREIB": "@article{2025FREIB, \n " + "title={Federated Recommendation with Explicitly Encoding Item Bias}, \n " + "volume={39}, \n " + "DOI={10.1609/aaai.v39i12.33395}, \n " + "number={12}, \n " + "journal={Proceedings of the AAAI Conference on Artificial Intelligence}, \n " + "author={Wang, Zhihao and Bai, He and Huang, Wenke and Li, Duantengchuan and Wang, Jian and Li, Bing}, \n " + "year={2025}, \n " + " month={Apr.}, \n " + "pages={12792-12800} \n " + "}",
@@ -70,7 +75,7 @@
 
 
 ## 📚 Large Language Model
-- [DAPlanner: Dual-agent framework with multi-modal large language model for autonomous driving motion planning](https://www.sciencedirect.com/science/article/abs/pii/S1568494625009366). P. Zhang, Ke Lin, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2025</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DAPlanner')">[Bib]</span>, **[[PDF](_pages/paper/2024-SoEval.pdf)]**
+- [DAPlanner: Dual-agent framework with multi-modal large language model for autonomous driving motion planning](https://www.sciencedirect.com/science/article/abs/pii/S1568494625009366). P. Zhang, Ke Lin, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2025</font>**. (SCI 2区Top) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DAPlanner')">[Bib]</span>, **[[PDF](_pages/paper/2025-DAPlanner.pdf)]**
 
 - [Are LLMs good at structured outputs? A benchmark for evaluating structured output capabilities in LLMs](https://www.sciencedirect.com/science/article/pii/S0306457324001687). Y. Liu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024SoEval')">[Bib]</span>, **[[PDF](_pages/paper/2024-SoEval.pdf)]**
 
@@ -79,16 +84,11 @@
 
 ## 🤖 Recommender System
 
-- [Learning path recommendation based on forgetting factors and knowledge graph awareness](https://www.sciencedirect.com/science/article/abs/pii/S0306457325003346). Y. Fan, M. Tong\*, **D. Li\***. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MRSR')">[Bib]</span>, **[[PDF](_pages/paper/2024-MRSR.pdf)]**
+- [Learning path recommendation based on forgetting factors and knowledge graph awareness](https://www.sciencedirect.com/science/article/abs/pii/S0306457325003346). Y. Fan, M. Tong\*, **D. Li\***. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2026</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2026FKGRec')">[Bib]</span>, **[[PDF](_pages/paper/2026-FKGRec.pdf)]**
 
+- [Integrating deep clustering and multi-view graph neural networks for recommender system](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001929). J. Song, Y. Li, **D. Li\***, X. Wang\*, et al. **<font color=BlueViolet>Knowledge-Based Systems</font>**, **<font color=BlueViolet>2026</font>**.  (SCI 1区Top) <span style="color:blue; cursor:pointer;" onclick="showAlert('2026MDCRec')">[Bib]</span>, **[[PDF](_pages/paper/2026-MDCRec.pdf)]**
 
-- [Integrating deep clustering and multi-view graph neural networks for recommender system](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001929). J. Song, Y. Li, **D. Li\***, X. Wang\*, et al. **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. <span style="color:blue; cursor:pointer;" onclick="showAlert('2026MDCRec')">[Bib]</span>, **[[PDF](_pages/paper/2025-MNCL.pdf)]**
-
-
-- [DDASR: Deep diverse API sequence recommendation](https://dl.acm.org/doi/full/10.1145/3712188). S. Nan, J. Wang, N. Zhang, **D. Li**, Bing Li **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DDASR')">[Bib]</span>, **[[PDF](_pages/paper/2025-MNCL.pdf)]**
-
-
-- [Recommender system based on noise enhancement and multi-view graph contrastive learning](https://www.sciencedirect.com/science/article/pii/S1568494625005319?via%3Dihub). **D. Li**, J. Lu, et al. **<font color=BlueViolet>Applied Soft Computing</font>**, **<font color=BlueViolet>2025</font>**. <span style="color:blue; cursor:pointer;" onclick="showAlert('2025MNCL')">[Bib]</span>, **[[PDF](_pages/paper/2025-MNCL.pdf)]**
+- [Recommender system based on noise enhancement and multi-view graph contrastive learning](https://www.sciencedirect.com/science/article/pii/S1568494625005319?via%3Dihub). **D. Li**, J. Lu, et al. **<font color=BlueViolet>Applied Soft Computing</font>**, **<font color=BlueViolet>2025</font>**.  (SCI 2区Top) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025MNCL')">[Bib]</span>, **[[PDF](_pages/paper/2025-MNCL.pdf)]**
 
 - [MSCA: a multi-scale context-aware recommender system leveraging reviews and user interactions](https://www.emerald.com/insight/content/doi/10.1108/ijwis-10-2024-0311/full/html). Z. Jin, J. Wang, **D Li**, M. Li, B. Li. **<font color=BlueViolet>International Journal of Web Information Systems</font>**, **<font color=BlueViolet>2025</font>**.  <span style="color:blue; cursor:pointer;" onclick="showAlert('2025MSCA')">[Bib]</span>, **[[PDF](_pages/paper/2025-MSCA.pdf)]**
 
@@ -119,7 +119,7 @@
 
 ## 📖 Smart Education
 
-- [Knowledge-based visual question classification using quaternion hypergraph consistent network](https://www.sciencedirect.com/science/article/abs/pii/S0306457325005321). J. Wang, **D. Li\*** et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2023SHGNet')">[Bib]</span>, **[[PDF](_pages/paper/2023-SHGNet.pdf)]**
+- [Knowledge-based visual question classification using quaternion hypergraph consistent network](https://www.sciencedirect.com/science/article/abs/pii/S0306457325005321). J. Wang, **D. Li\*** et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2026</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2026QHCN')">[Bib]</span>, **[[PDF](_pages/paper/2026-QHCN.pdf)]**
 
 
 ## 🌐 Knowledge Graph
@@ -172,11 +172,9 @@
   
 ## 📠 Others
 
-- [Travel time resilience of national multimodal transport systems under extreme events: A passenger-oriented framework](https://www.sciencedirect.com/science/article/abs/pii/S0951832026000724). H. Zhang, M. Ouyang, M. Xu, W. Sun, L. Hong, **D. Li**. **<font color=BlueViolet>Drones</font>**, **<font color=BlueViolet>2026</font>**. (SCI 2区) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024HARO')">[Bib]</span>, **[[PDF](_pages/paper/2024-HARO.pdf)]**
-
+- [Travel time resilience of national multimodal transport systems under extreme events: A passenger-oriented framework](https://www.sciencedirect.com/science/article/abs/pii/S0951832026000724). H. Zhang, M. Ouyang, M. Xu, W. Sun, L. Hong, **D. Li**. **<font color=BlueViolet>Reliability Engineering & System Safety</font>**, **<font color=BlueViolet>2026</font>**. (SCI 1区Top) <span style="color:blue; cursor:pointer;" onclick="showAlert('2026NMTSs')">[Bib]</span>, **[[PDF](_pages/paper/2026-NMTSs.pdf)]**
 
 - [A Hybrid ARO Algorithm and Key Point Retention Strategy Trajectory Optimization for UAV Path Planning](https://www.mdpi.com/2504-446X/8/11/644). B. Liu, Y. Cai\*, **D. Li\***, et al. **<font color=BlueViolet>Drones</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024HARO')">[Bib]</span>, **[[PDF](_pages/paper/2024-HARO.pdf)]**
-
 
 - [PBScaler: A Bottleneck-aware Autoscaling Framework for Microservice-based Applications](https://ieeexplore.ieee.org/document/10468626/). S. Xie, J. Wang, B. Li, Z. Zhang, **D. Li**, et al. **<font color=BlueViolet>IEEE Transactions on Services Computing</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区, CCF A) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024PBScaler')">[Bib]</span>, **[[PDF](_pages/paper/2024-PBScaler.pdf)]**
 
