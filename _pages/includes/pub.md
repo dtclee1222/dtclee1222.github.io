@@ -117,7 +117,7 @@
 
 - [CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms](https://linkinghub.elsevier.com/retrieve/pii/S0925231221005142). **D. Li**, et al. **<font color=BlueViolet>Neurocomputing</font>**, **<font color=BlueViolet>2021</font>**. (SCI 2区Top) <span style="color:blue; cursor:pointer;" onclick="showAlert('2021CARM')">[Bib]</span>, **[[PDF](_pages/paper/2021-CARM.pdf)]**
 
-## 📚 Smart Education
+## 📖 Smart Education
 
 - [Knowledge-based visual question classification using quaternion hypergraph consistent network](https://www.sciencedirect.com/science/article/abs/pii/S0306457325005321). J. Wang, **D. Li\*** et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2023SHGNet')">[Bib]</span>, **[[PDF](_pages/paper/2023-SHGNet.pdf)]**
 
