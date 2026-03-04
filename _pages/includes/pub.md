@@ -65,7 +65,12 @@
 **Joint first authors are indicated using #, and corresponding authors using \***.
 
 
+
+
+
+
 ## 📚 Large Language Model
+- [DAPlanner: Dual-agent framework with multi-modal large language model for autonomous driving motion planning](https://www.sciencedirect.com/science/article/abs/pii/S1568494625009366). P. Zhang, Ke Lin, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2025</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DAPlanner')">[Bib]</span>, **[[PDF](_pages/paper/2024-SoEval.pdf)]**
 
 - [Are LLMs good at structured outputs? A benchmark for evaluating structured output capabilities in LLMs](https://www.sciencedirect.com/science/article/pii/S0306457324001687). Y. Liu, **D. Li\***, et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024SoEval')">[Bib]</span>, **[[PDF](_pages/paper/2024-SoEval.pdf)]**
 
@@ -74,7 +79,16 @@
 
 ## 🤖 Recommender System
 
-- [Recommender system based on noise enhancement and multi-view graph contrastive learning](https://www.sciencedirect.com/science/article/pii/S1568494625005319?via%3Dihub). **D Li**, J. Lu, et al. **<font color=BlueViolet>Applied Soft Computing</font>**, **<font color=BlueViolet>2025</font>**. <span style="color:blue; cursor:pointer;" onclick="showAlert('2025MNCL')">[Bib]</span>, **[[PDF](_pages/paper/2025-MNCL.pdf)]**
+- [Learning path recommendation based on forgetting factors and knowledge graph awareness](https://www.sciencedirect.com/science/article/abs/pii/S0306457325003346). Y. Fan, M. Tong\*, **D. Li\***. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2024</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024MRSR')">[Bib]</span>, **[[PDF](_pages/paper/2024-MRSR.pdf)]**
+
+
+- [Integrating deep clustering and multi-view graph neural networks for recommender system](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001929). J. Song, Y. Li, **D. Li\***, X. Wang\*, et al. **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. <span style="color:blue; cursor:pointer;" onclick="showAlert('2026MDCRec')">[Bib]</span>, **[[PDF](_pages/paper/2025-MNCL.pdf)]**
+
+
+- [DDASR: Deep diverse API sequence recommendation](https://dl.acm.org/doi/full/10.1145/3712188). S. Nan, J. Wang, N. Zhang, **D. Li**, Bing Li **<font color=BlueViolet>ACM Transactions on Software Engineering and Methodology</font>**, **<font color=BlueViolet>2025</font>**. <span style="color:blue; cursor:pointer;" onclick="showAlert('2025DDASR')">[Bib]</span>, **[[PDF](_pages/paper/2025-MNCL.pdf)]**
+
+
+- [Recommender system based on noise enhancement and multi-view graph contrastive learning](https://www.sciencedirect.com/science/article/pii/S1568494625005319?via%3Dihub). **D. Li**, J. Lu, et al. **<font color=BlueViolet>Applied Soft Computing</font>**, **<font color=BlueViolet>2025</font>**. <span style="color:blue; cursor:pointer;" onclick="showAlert('2025MNCL')">[Bib]</span>, **[[PDF](_pages/paper/2025-MNCL.pdf)]**
 
 - [MSCA: a multi-scale context-aware recommender system leveraging reviews and user interactions](https://www.emerald.com/insight/content/doi/10.1108/ijwis-10-2024-0311/full/html). Z. Jin, J. Wang, **D Li**, M. Li, B. Li. **<font color=BlueViolet>International Journal of Web Information Systems</font>**, **<font color=BlueViolet>2025</font>**.  <span style="color:blue; cursor:pointer;" onclick="showAlert('2025MSCA')">[Bib]</span>, **[[PDF](_pages/paper/2025-MSCA.pdf)]**
 
@@ -102,6 +116,10 @@
 - [EAMR: An Emotion-aware Music Recommender Method via Mel Spectrogram and Arousal-Valence Model](https://ieeexplore.ieee.org/document/9969215). Z. Fu, Z. Zhang, J. Zheng, K. Lin and **D. Li**. 2022 International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML), 2022. <span style="color:blue; cursor:pointer;" onclick="showAlert('2022EAMR')">[Bib]</span>, **[[PDF](_pages/paper/2022-EAMR.pdf)]**
 
 - [CARM: Confidence-aware recommender model via review representation learning and historical rating behavior in the online platforms](https://linkinghub.elsevier.com/retrieve/pii/S0925231221005142). **D. Li**, et al. **<font color=BlueViolet>Neurocomputing</font>**, **<font color=BlueViolet>2021</font>**. (SCI 2区Top) <span style="color:blue; cursor:pointer;" onclick="showAlert('2021CARM')">[Bib]</span>, **[[PDF](_pages/paper/2021-CARM.pdf)]**
+
+## 📚 Smart Education
+
+- [Knowledge-based visual question classification using quaternion hypergraph consistent network](https://www.sciencedirect.com/science/article/abs/pii/S0306457325005321). J. Wang, **D. Li\*** et al. **<font color=BlueViolet>Information Processing & Management</font>**, **<font color=BlueViolet>2023</font>**. (SCI 1区Top, CCF B) <span style="color:blue; cursor:pointer;" onclick="showAlert('2023SHGNet')">[Bib]</span>, **[[PDF](_pages/paper/2023-SHGNet.pdf)]**
 
 
 ## 🌐 Knowledge Graph
@@ -153,6 +171,10 @@
 
   
 ## 📠 Others
+
+- [Travel time resilience of national multimodal transport systems under extreme events: A passenger-oriented framework](https://www.sciencedirect.com/science/article/abs/pii/S0951832026000724). H. Zhang, M. Ouyang, M. Xu, W. Sun, L. Hong, **D. Li**. **<font color=BlueViolet>Drones</font>**, **<font color=BlueViolet>2026</font>**. (SCI 2区) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024HARO')">[Bib]</span>, **[[PDF](_pages/paper/2024-HARO.pdf)]**
+
+
 - [A Hybrid ARO Algorithm and Key Point Retention Strategy Trajectory Optimization for UAV Path Planning](https://www.mdpi.com/2504-446X/8/11/644). B. Liu, Y. Cai\*, **D. Li\***, et al. **<font color=BlueViolet>Drones</font>**, **<font color=BlueViolet>2024</font>**. (SCI 2区) <span style="color:blue; cursor:pointer;" onclick="showAlert('2024HARO')">[Bib]</span>, **[[PDF](_pages/paper/2024-HARO.pdf)]**
 
 
